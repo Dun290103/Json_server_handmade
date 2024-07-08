@@ -32,18 +32,18 @@ GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
 POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
-{
-    "name": "Laptop"
-}
+ {
+"name": "laptop"
+  }
 
 ###
 
 # @name update
-PATCH {{baseUrl}}/{{resourceName}}/2
+PATCH {{baseUrl}}/{{resourceName}}/wxtDALm
 Content-Type: application/json
 
 {
-    "name": "New Laptop"
+    "name": "New Laptop update"
 }
 
 ###

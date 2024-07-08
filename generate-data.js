@@ -46,8 +46,8 @@ const randomCategoryList = (categories) => {
     const category = {
       id: faker.string.uuid(),
       name: categoryName,
-      createAt: Date.now(),
-      updateAt: Date.now(),
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
     };
 
     categoryList.push(category);
@@ -74,8 +74,8 @@ const randomProductList = (categoryList, numberOfProducts) => {
           max: 1000000,
         }),
         image_url: "",
-        createAt: Date.now(),
-        updateAt: Date.now(),
+        createdAt: Date.now(),
+        updatedAt: Date.now(),
       };
 
       productList.push(product);
