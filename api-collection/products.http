@@ -19,7 +19,7 @@ GET {{baseUrl}}/{{resourceName}}?name_like=pants
 ###
 
 # @name pagination
-GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=2
+GET {{baseUrl}}/{{resourceName}}?_page=2&_limit=4
 
 ###
 
@@ -33,18 +33,23 @@ POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
  {
-"name": "laptop"
+    "categoryId": "40c3564c-0a30-48ec-ab28-cb285f4af90d",
+    "name": "Electronic Steel Shoes",
+    "description": "test update",
+    "price": 500000,
+    "image_url": ""
   }
 
 ###
 
 # @name update
-PATCH {{baseUrl}}/{{resourceName}}/wxtDALm
+PATCH {{baseUrl}}/{{resourceName}}/DFewtAe
 Content-Type: application/json
 
-{
-    "name": "New Laptop update"
-}
+ {
+    "name": "Electronic update",
+    "description": "test update 12"
+  }
 
 ###
 

@@ -1,4 +1,5 @@
 const jsonServer = require('json-server');
+const queryString = require('query-string');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
@@ -25,6 +26,29 @@ server.use((req, res, next) => {
   // Continue to JSON Server router
   next();
 });
+
+// Custom output for LIST  with pagination
+router.render = (req, res) => {
+  const headers = res.getHeaders();
+
+  const totalCountHeader = headers['x-total-count'];
+  if (req.method === 'GET' && totalCountHeader) {
+    const queryParams = queryString.parse(req._parsedUrl.query);
+
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: +queryParams._page || 1,
+        _limit: +queryParams._limit || 10,
+        _totalRows: +totalCountHeader,
+      },
+    };
+
+    return res.jsonp(result);
+  }
+
+  res.jsonp(res.locals.data);
+};
 
 // Use default router
 server.use('/api', router);
