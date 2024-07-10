@@ -15,11 +15,29 @@ const customCategories = [
 ];
 
 const getUnsplashImages = async (query, numberOfImages) => {
-  const response = await fetch(
-    `https://api.unsplash.com/search/photos?page=1&query=${query}&per_page=${numberOfImages}&client_id=${accessKey}`,
-  );
-  const data = await response.json();
-  return data.results.map((result) => result.urls.raw);
+  const imagesPerPage = 30;
+  let totalImages = [];
+  let page = 1;
+
+  while (totalImages.length < numberOfImages) {
+    const response = await fetch(
+      `https://api.unsplash.com/search/photos?query=${query}&page=${page}&per_page=${Math.min(
+        imagesPerPage,
+        numberOfImages - totalImages.length,
+      )}&client_id=${accessKey}`,
+    );
+    const data = await response.json();
+    totalImages = totalImages.concat(data.results.map((result) => result.urls.raw));
+
+    // Check if we've fetched all available images or there are no more results
+    if (data.results.length === 0) {
+      break;
+    }
+
+    page++;
+  }
+
+  return totalImages.slice(0, numberOfImages);
 };
 
 const randomCategoryList = (categories) => {
