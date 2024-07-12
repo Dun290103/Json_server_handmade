@@ -1,4 +1,5 @@
 const { faker } = require('@faker-js/faker');
+const axios = require('axios'); // Import axios
 const fs = require('fs');
 const accessKey = 'sORSikgPQZ-HBIDxq3r37meKgn5NGHNQmHxAMn8TOG4';
 
@@ -14,30 +15,51 @@ const customCategories = [
   'Phụ kiện handmade',
 ];
 
+const cache = new Map();
+
+// Call api get image
 const getUnsplashImages = async (query, numberOfImages) => {
   const imagesPerPage = 30;
   let totalImages = [];
   let page = 1;
 
-  while (totalImages.length < numberOfImages) {
-    const response = await fetch(
-      `https://api.unsplash.com/search/photos?query=${query}&page=${page}&per_page=${Math.min(
-        imagesPerPage,
-        numberOfImages - totalImages.length,
-      )}&client_id=${accessKey}`,
-    );
-    const data = await response.json();
-    totalImages = totalImages.concat(data.results.map((result) => result.urls.raw));
-
-    // Check if we've fetched all available images or there are no more results
-    if (data.results.length === 0) {
-      break;
+  // Kiểm tra bộ nhớ đệm
+  if (cache.has(query)) {
+    totalImages = cache.get(query);
+    if (totalImages.length >= numberOfImages) {
+      return totalImages.slice(0, numberOfImages);
     }
-
-    page++;
   }
 
-  return totalImages.slice(0, numberOfImages);
+  try {
+    while (totalImages.length < numberOfImages) {
+      const response = await axios.get('https://api.unsplash.com/search/photos', {
+        params: {
+          query: query,
+          page: page,
+          per_page: Math.min(imagesPerPage, numberOfImages - totalImages.length),
+          client_id: accessKey,
+        },
+      });
+
+      const data = response.data;
+      totalImages.push(...data.results.map((result) => result.urls.raw));
+
+      if (data.results.length === 0) {
+        break;
+      }
+
+      page++;
+    }
+
+    // Lưu kết quả vào bộ nhớ đệm
+    cache.set(query, totalImages);
+
+    return totalImages.slice(0, numberOfImages);
+  } catch (error) {
+    console.error(`Lỗi khi lấy ảnh: ${error.response ? error.response.statusText : error.message}`);
+    return [];
+  }
 };
 
 const randomCategoryList = (categories) => {
@@ -67,22 +89,21 @@ const randomProductList = async (categoryList, numberOfProducts) => {
   const totalImagesNeeded = categoryList.length * numberOfProducts;
   const imageUrls = await getUnsplashImages('handmade', totalImagesNeeded);
 
-  // Random data
-  let imageIndex = 0;
-  for (const category of categoryList) {
+  if (imageUrls.length < totalImagesNeeded) {
+    throw new Error('Không đủ số lượng ảnh để tạo sản phẩm');
+  }
+
+  // Tạo danh sách sản phẩm ngẫu nhiên
+  categoryList.forEach((category, categoryIndex) => {
     for (let i = 0; i < numberOfProducts; i++) {
-      const image_url = imageUrls[imageIndex]; // Lấy ảnh theo thứ tự
-      imageIndex++;
+      const image_url = imageUrls[categoryIndex * numberOfProducts + i];
 
       const product = {
         id: faker.string.uuid(),
         categoryId: category.id,
         name: faker.commerce.productName(),
         description: faker.commerce.productDescription(),
-        price: +faker.commerce.price({
-          min: 1000,
-          max: 1000000,
-        }),
+        price: Math.floor(faker.commerce.price({ min: 1000, max: 3000000 }) / 1000) * 1000,
         image_url: image_url,
         createdAt: Date.now(),
         updatedAt: Date.now(),
@@ -90,7 +111,7 @@ const randomProductList = async (categoryList, numberOfProducts) => {
 
       productList.push(product);
     }
-  }
+  });
 
   return productList;
 };
@@ -98,7 +119,7 @@ const randomProductList = async (categoryList, numberOfProducts) => {
 (async () => {
   // Random data
   const categoryList = randomCategoryList(customCategories);
-  const productList = await randomProductList(categoryList, 5);
+  const productList = await randomProductList(categoryList, 7);
 
   // Prepare db object
   const db = {
