@@ -7,6 +7,14 @@ const middlewares = jsonServer.defaults();
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
 
+// Enable CORS
+server.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PATCH, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 // Add custom routes before JSON Server router
 server.get('/echo', (req, res) => {
   res.jsonp(req.query);
