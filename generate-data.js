@@ -21,7 +21,6 @@ const cache = new Map();
 const getUnsplashImages = async (query, numberOfImages) => {
   const imagesPerPage = 30;
   let totalImages = [];
-  let page = 1;
 
   // Kiểm tra bộ nhớ đệm
   if (cache.has(query)) {
@@ -32,25 +31,27 @@ const getUnsplashImages = async (query, numberOfImages) => {
   }
 
   try {
-    while (totalImages.length < numberOfImages) {
-      const response = await axios.get('https://api.unsplash.com/search/photos', {
-        params: {
-          query: query,
-          page: page,
-          per_page: Math.min(imagesPerPage, numberOfImages - totalImages.length),
-          client_id: accessKey,
-        },
-      });
+    const promises = [];
+    let pagesNeeded = Math.ceil(numberOfImages / imagesPerPage);
 
+    for (let page = 1; page <= pagesNeeded; page++) {
+      promises.push(
+        axios.get('https://api.unsplash.com/search/photos', {
+          params: {
+            query: query,
+            page: page,
+            per_page: Math.min(imagesPerPage, numberOfImages - totalImages.length),
+            client_id: accessKey,
+          },
+        }),
+      );
+    }
+
+    const responses = await Promise.all(promises);
+    responses.forEach((response) => {
       const data = response.data;
       totalImages.push(...data.results.map((result) => result.urls.raw));
-
-      if (data.results.length === 0) {
-        break;
-      }
-
-      page++;
-    }
+    });
 
     // Lưu kết quả vào bộ nhớ đệm
     cache.set(query, totalImages);
