@@ -1,615 +1,782 @@
 {
   "categories": [
     {
-      "id": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Tranh thêu tay",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay"
     },
     {
-      "id": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Bông tai handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Gốm sứ"
     },
     {
-      "id": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Gấu bông handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công"
     },
     {
-      "id": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Móc khóa handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên"
     },
     {
-      "id": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Quà lưu niệm tự làm",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Đồ trang sức handmade"
     },
     {
-      "id": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Vòng tay handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách thủ công"
     },
     {
-      "id": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Balo handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay bìa cứng thủ công"
     },
     {
-      "id": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Phụ kiện handmade",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng thủ công"
     }
   ],
   "products": [
     {
-      "id": "fa4e0940-023b-4950-b5bc-6a949c515c5b",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Elegant Concrete Fish",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": 2595000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6595044152705024",
-      "createdAt": 1721317166515,
-      "updatedAt": 1721317166515
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên tinh dầu bưởi",
+      "description": "Xà phòng handmade từ tinh dầu bưởi, làm sáng da.",
+      "price": 189500,
+      "image_url": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
-      "id": "deda0336-00a3-4034-9901-5991fae63eb6",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Recycled Soft Keyboard",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 137000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=2073912462540800",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hoa nhài",
+      "description": "Xà phòng handmade từ hoa nhài, thơm mát và dịu nhẹ.",
+      "price": 210000,
+      "image_url": "https://images.unsplash.com/photo-1586216583645-bf798306a3d7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
-      "id": "ed09ecda-3032-4cec-b074-dea5e58c2bc6",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Luxurious Frozen Sausages",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": 2148000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5634270236246016",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay gỗ",
+      "description": "Vòng tay handmade làm từ gỗ tự nhiên.",
+      "price": 375000,
+      "image_url": "https://images.unsplash.com/photo-1454873019514-eae2f086587a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
-      "id": "ea6aa89d-367c-41e9-9dcd-16dcce80f0ac",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Fantastic Metal Chair",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 1174000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4359266712420352",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn bạc",
+      "description": "Nhẫn handmade làm từ bạc, thiết kế đơn giản.",
+      "price": 249000,
+      "image_url": "https://images.unsplash.com/photo-1590605049074-f1780f70b791?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "5a921b40-fe67-4d97-bd19-aacf927ba972",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Oriental Steel Shoes",
-      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "price": 1605000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8996050392055808",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng thủ công",
+      "description": "Đèn lồng handmade từ các vật liệu tự nhiên.",
+      "price": 248000,
+      "image_url": "https://images.unsplash.com/photo-1590605095243-072811dbe64c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "a8dc4889-2181-4113-921c-3e82bc37d775",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Incredible Wooden Gloves",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 1910000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5274086819233792",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng trang trí",
+      "description": "Đèn lồng handmade trang trí cho không gian thêm ấm cúng.",
+      "price": 362000,
+      "image_url": "https://images.unsplash.com/photo-1595351298020-038700609878?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "9738731e-b067-48e8-b47e-9818b6350a59",
-      "categoryId": "a669427e-4c0a-4d40-ba5f-276f2e4f7f3f",
-      "name": "Practical Concrete Soap",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 685000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5121085622190080",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách dây rút",
+      "description": "Túi xách handmade dây rút tiện lợi và thời trang.",
+      "price": 1025000,
+      "image_url": "https://images.unsplash.com/photo-1635656797814-2493a866105f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "cf41e773-3e8e-46f8-acd3-87c614a58917",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Small Rubber Pizza",
-      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": 427000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8221067824857088",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách du lịch",
+      "description": "Túi xách handmade dành cho du lịch với nhiều ngăn.",
+      "price": 485000,
+      "image_url": "https://images.unsplash.com/photo-1604510493959-8a20b3630d53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "1c3f2750-dfe3-4b33-b3f4-a2396eca5f38",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Generic Wooden Chips",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 583000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=7805682149490688",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay kiểu dáng hiện đại",
+      "description": "Sổ tay handmade kiểu dáng hiện đại và tiện dụng.",
+      "price": 1575000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1668620538983-c5993e4a443d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "b162d6eb-6b85-4034-99a2-f81df6a69fe6",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Handmade Steel Sausages",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 812000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=379978457808896",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr0u",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay thiết kế cổ điển",
+      "description": "Sổ tay handmade với thiết kế cổ điển và sang trọng.",
+      "price": 2780000,
+      "image_url": "https://images.unsplash.com/photo-1590422886897-7dd50e58577e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "db149e53-9ba5-4189-9033-a6bedf8b5fe9",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Intelligent Plastic Cheese",
-      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "price": 361000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=1291802623606784",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1u",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương liệu trái cây",
+      "description": "Xà phòng handmade với hương trái cây tươi mát.",
+      "price": 1125000,
+      "image_url": "https://images.unsplash.com/photo-1474625121024-7595bfbc57ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "1463f47e-18e9-4cbe-b6b2-8bc5f3c7b2e2",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Rustic Plastic Salad",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 2747000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=637543762624512",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2u",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên tinh dầu",
+      "description": "Xà phòng handmade từ tinh dầu tự nhiên, dưỡng da hiệu quả.",
+      "price": 1420000,
+      "image_url": "https://images.unsplash.com/photo-1532505593-12fcd530eba3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "ed82d1ab-762f-49a1-a8fd-0bafc6beab56",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Sleek Rubber Pants",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": 263000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3409700041261056",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3u",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Lắc tay thủ công từ vỏ sò",
+      "description": "Lắc tay handmade từ vỏ sò và dây da.",
+      "price": 1895000,
+      "image_url": "https://images.unsplash.com/photo-1530016143569-dc4a7c89173b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "dbdd95da-6043-47d0-89b5-c232b24902f8",
-      "categoryId": "fd79c516-ec94-425f-97a6-03352cf00a32",
-      "name": "Tasty Soft Soap",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "price": 1909000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=451249814110208",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4u",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng cổ gỗ",
+      "description": "Vòng cổ handmade làm từ gỗ tự nhiên.",
+      "price": 2550000,
+      "image_url": "https://images.unsplash.com/photo-1541085478756-418a3402fcb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "3bfb3b31-fbd3-4570-8002-77725fb28f72",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Awesome Granite Car",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": 884000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6636241472716800",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5u",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng phong cách vintage",
+      "description": "Đèn lồng handmade phong cách vintage, đẹp và ấm cúng.",
+      "price": 2780000,
+      "image_url": "https://images.unsplash.com/photo-1536000800373-5b5e6020910a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "4d73e2dc-d129-46d3-aacb-eb6e996413ce",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Recycled Cotton Shirt",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 2160000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5441418306781184",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6u",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng thủ công từ giấy",
+      "description": "Đèn lồng handmade từ giấy, phù hợp cho các dịp lễ hội.",
+      "price": 2090000,
+      "image_url": "https://images.unsplash.com/photo-1518650806754-d6fc7bb5b5c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "cb6c6ef9-0a87-4bd7-807d-1d2fd3d56c28",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Intelligent Frozen Bacon",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 1279000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5982183795720192",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7u",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đeo chéo",
+      "description": "Túi xách handmade đeo chéo, thiết kế thời trang và tiện lợi.",
+      "price": 300000,
+      "image_url": "https://images.unsplash.com/photo-1517241600143-3315d2a45e6d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "79f62d78-0db8-4409-9734-6425e035147c",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Modern Wooden Fish",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 1258000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3234994143100928",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8u",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi tote vải lanh",
+      "description": "Túi tote handmade làm từ vải lanh bền và nhẹ.",
+      "price": 450000,
+      "image_url": "https://images.unsplash.com/photo-1466027449668-27f96b692ba4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "ef8e1c44-62ab-435e-998c-b10346dabac1",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Recycled Wooden Soap",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 2091000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8644491718164480",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9u",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay handmade da bò",
+      "description": "Sổ tay handmade bọc da bò, chất lượng và bền bỉ.",
+      "price": 2100000,
+      "image_url": "https://images.unsplash.com/photo-1527383214149-cb7be04ae387?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "20cf79b4-6654-4c1a-8c09-924ae72170b8",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Generic Rubber Chair",
-      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "price": 2931000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8701703620657152",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr0v",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da cừu",
+      "description": "Sổ tay handmade làm từ da cừu mềm mại và sang trọng.",
+      "price": 3250000,
+      "image_url": "https://images.unsplash.com/photo-1493236272120-200db0da1927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "83479d51-c3b8-44e4-84fa-8924be916180",
-      "categoryId": "df1396b0-02d0-4b12-a96b-10a21e2368b7",
-      "name": "Tasty Cotton Car",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": 1363000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=2278319059894272",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr2u",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương liệu hoa hồng",
+      "description": "Xà phòng handmade với hương hoa hồng, làm mềm da.",
+      "price": 1450000,
+      "image_url": "https://images.unsplash.com/photo-1527505937496-ec9bd1d25da5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "c2d14322-9f6b-4992-be3d-1bbfcfeaced4",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Elegant Metal Hat",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": 1431000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=1467012645650432",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr3u",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương liệu lavender",
+      "description": "Xà phòng handmade với hương lavender thư giãn.",
+      "price": 1330000,
+      "image_url": "https://images.unsplash.com/photo-1528107583409-fbd56547bb28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "bec9c1c2-9326-4fe2-9d83-2ea722bd8792",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Incredible Wooden Salad",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 2129000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3165078153068544",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr4u",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay đá quý",
+      "description": "Vòng tay handmade làm từ đá quý tự nhiên.",
+      "price": 2850000,
+      "image_url": "https://images.unsplash.com/photo-1531357732422-758bdf2af3d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "471dc702-06c1-44ca-b2e5-c0bc72ae6cd4",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Bespoke Concrete Salad",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 874000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5153578803003392",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr5u",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn đá quý",
+      "description": "Nhẫn handmade làm từ đá quý với thiết kế tinh tế.",
+      "price": 1850000,
+      "image_url": "https://images.unsplash.com/photo-1590538141485-2790d32fc62a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "35e51ff7-5337-4325-9edf-ee2a73c171fa",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Modern Bronze Chicken",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "price": 1248000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8881058695086080",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr6u",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng trang trí tết",
+      "description": "Đèn lồng handmade trang trí tết với màu sắc rực rỡ.",
+      "price": 3250000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1702504054656-76c2c987b519?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "336391ef-1153-496c-af92-a1feb6bc1355",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Elegant Granite Soap",
-      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": 651000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4207126245277696",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr7u",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng ánh sáng mềm",
+      "description": "Đèn lồng handmade với ánh sáng mềm mại, tạo không gian thư giãn.",
+      "price": 1820000,
+      "image_url": "https://images.unsplash.com/photo-1480355781839-51097c7d4f9f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "c5176e33-1fcb-497a-ab60-0069b5d66114",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Electronic Soft Chips",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": 844000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4670610005295104",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr8u",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách da bò",
+      "description": "Túi xách handmade làm từ da bò cao cấp.",
+      "price": 3450000,
+      "image_url": "https://images.unsplash.com/photo-1561030144-775b0ba95af6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "ba409240-a272-4de5-83e4-3de03daeed99",
-      "categoryId": "2bf36367-721f-426d-9a2b-658a6155f0e3",
-      "name": "Intelligent Concrete Shirt",
-      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "price": 683000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=1789116391882752",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr9u",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách canvas",
+      "description": "Túi xách handmade làm từ canvas bền và dễ phối đồ.",
+      "price": 255000,
+      "image_url": "https://images.unsplash.com/photo-1562838089-9d088a1da4d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
-      "id": "fed86f51-c514-471d-a115-c6fc6ebcc3cd",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Recycled Concrete Towels",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": 1718000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8427334080135168",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr0v",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay vỏ gỗ",
+      "description": "Sổ tay handmade với vỏ gỗ, thiết kế độc đáo và tự nhiên.",
+      "price": 1500000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677621682465-7eb149f8a811?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "1a2f947d-bdb3-4bfc-a013-30ee7d7b5054",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Awesome Plastic Keyboard",
-      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": 384000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=1501396912308224",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr1w",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da sần",
+      "description": "Sổ tay handmade với da sần, cứng cáp và chắc chắn.",
+      "price": 2750000,
+      "image_url": "https://images.unsplash.com/photo-1656075992106-310ff318a512?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "a76514f3-6b07-44d3-83bf-f631d4190db0",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Tasty Frozen Keyboard",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": 2327000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3675442613583872",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr2w",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương chanh",
+      "description": "Xà phòng handmade với hương chanh tươi mới.",
+      "price": 1290000,
+      "image_url": "https://images.unsplash.com/photo-1581572627889-0ff9e6ff8941?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "0837f714-48d5-40ac-8410-573716f43088",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Ergonomic Rubber Gloves",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 1858000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=7465559526473728",
-      "createdAt": 1721317166516,
-      "updatedAt": 1721317166516
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr3w",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương oải hương",
+      "description": "Xà phòng handmade với hương oải hương, giúp thư giãn.",
+      "price": 1340000,
+      "image_url": "https://images.unsplash.com/photo-1596140158734-8d0caf585aec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "55808d2a-72b4-45eb-86ac-b86de3819143",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Fantastic Soft Sausages",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": 165000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=1070234381320192",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr4w",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay bạc 925",
+      "description": "Vòng tay handmade làm từ bạc 925, thanh lịch và sang trọng.",
+      "price": 2950000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677621678886-f16c7b96779c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "52f12421-dc06-4aef-8a3f-748d13f5a55e",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Modern Fresh Towels",
-      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "price": 37000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4443881192030208",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr5w",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn thủ công từ gốm sứ",
+      "description": "Nhẫn handmade làm từ gốm sứ với thiết kế độc đáo.",
+      "price": 1950000,
+      "image_url": "https://images.unsplash.com/photo-1701461761962-52013638ccf1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "535a71c8-e4cf-44de-a0a6-4a99b938ec7e",
-      "categoryId": "c0983625-e0f7-4752-b945-7209e6666487",
-      "name": "Handcrafted Soft Mouse",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 434000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6282377271705600",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr6w",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng nghệ thuật",
+      "description": "Đèn lồng handmade với thiết kế nghệ thuật, tạo điểm nhấn cho không gian.",
+      "price": 2750000,
+      "image_url": "https://images.unsplash.com/photo-1588242075039-842872c4b5dc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "b037af53-977d-4cd0-a83a-325f8d785408",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Practical Steel Soap",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 2797000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5599544005885952",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr7w",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng cắm điện",
+      "description": "Đèn lồng handmade cắm điện, tiện dụng và đẹp mắt.",
+      "price": 1150000,
+      "image_url": "https://images.unsplash.com/photo-1602607203588-d6d0eda790e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "abbc7f3a-8e11-4eb3-92e6-cc77ffb6f384",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Licensed Steel Chips",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 668000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4640769717567488",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr8w",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách laptop",
+      "description": "Túi xách handmade dành cho laptop, bảo vệ và thời trang.",
+      "price": 1450000,
+      "image_url": "https://images.unsplash.com/photo-1600888272025-089d1591dbf9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "a7811893-a33a-4ec6-83b9-a768373d6acb",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Handmade Cotton Hat",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": 2107000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=7384103366164480",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr9w",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng đồ trang điểm",
+      "description": "Túi xách handmade đựng đồ trang điểm, tiện dụng và nhỏ gọn.",
+      "price": 275000,
+      "image_url": "https://images.unsplash.com/photo-1587566554235-15a39f4bd8f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "dabb6261-8beb-40b3-9ac7-a41939a9fa3f",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Elegant Cotton Mouse",
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "price": 1804000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=7939465955770368",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr0x",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay bìa vải dệt",
+      "description": "Sổ tay handmade với bìa vải dệt nhiều màu sắc.",
+      "price": 2200000,
+      "image_url": "https://images.unsplash.com/photo-1580642682609-8b6ab251fbb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "9debe092-4425-48bd-a61a-5326cdaad83d",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Awesome Bronze Shoes",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 1893000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3305479279214592",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr2x",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay vải thổ cẩm",
+      "description": "Sổ tay handmade với vải thổ cẩm truyền thống.",
+      "price": 1850000,
+      "image_url": "https://images.unsplash.com/photo-1682953450172-2b0302b6f3f3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "9f76d811-b633-4c64-8084-127ab166c428",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Generic Cotton Table",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 1301000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6764274122752000",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr3x",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương bạc hà",
+      "description": "Xà phòng handmade với hương bạc hà tươi mới.",
+      "price": 1250000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661762631372-04f8020cf8ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "ee463d70-a53d-4ee7-8151-65c7e0bb9151",
-      "categoryId": "73536491-93e3-42dd-bf4e-13f543d97ed4",
-      "name": "Modern Cotton Gloves",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 147000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5675924194328576",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr4x",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương quế",
+      "description": "Xà phòng handmade với hương quế ấm áp.",
+      "price": 1375000,
+      "image_url": "https://images.unsplash.com/photo-1631125915800-4008fc1072ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "b1731888-db3a-491d-b120-4854d4734919",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Intelligent Cotton Chicken",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": 926000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4107508618625024",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr5x",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay đá cẩm thạch",
+      "description": "Vòng tay handmade làm từ đá cẩm thạch tự nhiên.",
+      "price": 2750000,
+      "image_url": "https://images.unsplash.com/photo-1489435518427-e047d52082f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "358e1bff-4475-43d0-b026-44eccdd1e947",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Rustic Bronze Chicken",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": 2585000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6193375030018048",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr6x",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn thủ công từ đồng",
+      "description": "Nhẫn handmade làm từ đồng với thiết kế tinh xảo.",
+      "price": 1450000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661757467011-a9c47cc9e1da?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "1bbd8ad2-0449-4810-bc36-da322aef65b7",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Gorgeous Frozen Sausages",
-      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "price": 2974000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=205522296897536",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr7x",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng trang trí tiệc cưới",
+      "description": "Đèn lồng handmade trang trí cho tiệc cưới, đẹp mắt và sang trọng.",
+      "price": 2750000,
+      "image_url": "https://images.unsplash.com/photo-1585002400872-ec6f400e56b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "7510cadb-0204-486c-8cfa-0a811720f07d",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Practical Wooden Keyboard",
-      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-      "price": 1039000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=3457501011902464",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr8x",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng thủ công ánh sáng ấm",
+      "description": "Đèn lồng handmade với ánh sáng ấm áp, tạo không gian lãng mạn.",
+      "price": 1420000,
+      "image_url": "https://images.unsplash.com/photo-1651178086220-86a03e3ce515?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "a96d3227-6144-482c-8bff-e80f692f06d5",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Tasty Plastic Table",
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "price": 1098000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6316172395937792",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr9x",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đeo vai",
+      "description": "Túi đeo vai handmade với thiết kế tiện lợi và thời trang.",
+      "price": 325000,
+      "image_url": "https://images.unsplash.com/photo-1602607202950-a06a2a03cb9d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "eef6457f-49dc-472c-a0c0-e3787043c86f",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Electronic Soft Mouse",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 1786000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6068098966749184",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "8d4b8d7a-1f2b-3c4e-5d6f-7g8h9i0jklmn",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi xách da mềm",
+      "description": "Túi xách handmade làm từ da mềm, thiết kế thanh lịch.",
+      "price": 2150000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661757454336-02f8daf6a27a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "c09311e3-9f4e-42c9-9d8e-8df161a44c56",
-      "categoryId": "50f861d3-aaea-4457-ac0b-55eb64561f28",
-      "name": "Small Wooden Mouse",
-      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "price": 1661000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=8199497551183872",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "9e5d6c7b-2f3g-4h5i-6j7k-8l9m0n1o2pqr",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay vỏ vải mềm",
+      "description": "Sổ tay handmade với vỏ vải mềm mại và màu sắc tươi sáng.",
+      "price": 1750000,
+      "image_url": "https://images.unsplash.com/photo-1702285413263-f39d4ee95c3b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "fe7e9ae3-b28d-4b7d-915f-f5f2d22d2e24",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Electronic Soft Table",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "price": 513000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=4300665543196672",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "a1b2c3d4-5e6f-7g8h-9i0j-klmn1opq2r3",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương trà xanh",
+      "description": "Xà phòng handmade với hương trà xanh, làm sạch và thư giãn.",
+      "price": 1450000,
+      "image_url": "https://images.unsplash.com/photo-1523263889714-d345f8119047?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "908875ef-32fc-4971-88e7-605d23562b9d",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Incredible Steel Pants",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 2699000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=2164660776206336",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "b2c3d4e5-6f7g-8h9i-0j1k-lmn2opq3r4s",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay từ gỗ",
+      "description": "Vòng tay handmade làm từ gỗ tự nhiên, phong cách cổ điển.",
+      "price": 1950000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661760832236-8e3f6987e0e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "dcdc767b-695a-46df-ac5a-cbbf91485236",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Practical Soft Sausages",
-      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-      "price": 578000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=5815489366327296",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "c3d4e5f6-7g8h-9i0j-1k2l-mn3op4qr5s6t",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng trang trí sinh nhật",
+      "description": "Đèn lồng handmade trang trí sinh nhật, màu sắc vui tươi.",
+      "price": 2200000,
+      "image_url": "https://images.unsplash.com/photo-1699823891919-75016a04207d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "31c30b95-836d-4643-9eca-2c46a744195d",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Handcrafted Plastic Shoes",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": 1170000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=529496614633472",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "d4e5f6g7-8h9i-0j1k-2l3m-n4op5qr6s7t8",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng sách",
+      "description": "Túi handmade đựng sách, thiết kế tiện dụng và thời trang.",
+      "price": 1550000,
+      "image_url": "https://images.unsplash.com/photo-1683743116748-47f7caf00b95?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "d041367d-e231-494a-b0a3-a3d0611a6d3e",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Incredible Granite Ball",
-      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-      "price": 1169000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=2067552066863104",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "e5f6g7h8-9i0j-1k2l-3m4n-op5qr6s7t8u",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da vân",
+      "description": "Sổ tay handmade với da vân đẹp mắt, bền bỉ và sang trọng.",
+      "price": 2750000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661764425915-2ab18f827e2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTczfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "47eb9ca1-86de-4c0d-87b2-dbc127234b50",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Handmade Soft Chicken",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": 106000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6144474348519424",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "f6g7h8i9-0j1k-2l3m-4n5o-p6qr7s8t9u0v",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương gừng",
+      "description": "Xà phòng handmade với hương gừng ấm áp, giúp kích thích lưu thông máu.",
+      "price": 1550000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661761703557-90bb01b89af2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-      "id": "2539f2fa-3482-4e81-9d54-d178ef737e2a",
-      "categoryId": "976b9bba-5621-4c16-bbe8-292e36ae1e15",
-      "name": "Tasty Rubber Pants",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "price": 1056000,
-      "image_url": "https://loremflickr.com/640/480/handmade?lock=6833272675893248",
-      "createdAt": 1721317166517,
-      "updatedAt": 1721317166517
+      "id": "g7h8i9j0-1k2l-3m4n-5o6p-q7r8s9t0u1v",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn đá quý màu xanh",
+      "description": "Nhẫn handmade với đá quý màu xanh, tinh tế và sang trọng.",
+      "price": 2450000,
+      "image_url": "https://images.unsplash.com/photo-1636049839022-9b0b13858f05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "h8i9j0k1-2l3m-4n5o-6p7q-r8s9t0u1v2w",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng nghệ thuật đám cưới",
+      "description": "Đèn lồng handmade nghệ thuật cho đám cưới, trang trí sang trọng.",
+      "price": 3200000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661767713867-3dd72b515980?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "i9j0k1l2-3m4n-5o6p-7q8r-9s0t1u2v3w4",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng laptop da",
+      "description": "Túi xách handmade đựng laptop, làm từ da cao cấp.",
+      "price": 2950000,
+      "image_url": "https://images.unsplash.com/photo-1625978356752-5747f73a48ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "j0k1l2m3-4n5o-6p7q-8r9s-t0u1v2w3x4y",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da mềm mại",
+      "description": "Sổ tay handmade với da mềm mại, tạo cảm giác dễ chịu khi sử dụng.",
+      "price": 1600000,
+      "image_url": "https://images.unsplash.com/photo-1517236974035-6470b2eb4272?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "k1l2m3n4-5o6p-7q8r-9s0t-u1v2w3x4y5z",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương dưa leo",
+      "description": "Xà phòng handmade với hương dưa leo, giúp làm mát và làm dịu da.",
+      "price": 1700000,
+      "image_url": "https://images.unsplash.com/photo-1529139760315-66f8562cb1c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "l2m3n4o5-6p7q-8r9s-0t1u-2v3w4x5y6z7",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay đá thạch anh",
+      "description": "Vòng tay handmade với đá thạch anh, tạo cảm giác thanh thản.",
+      "price": 2250000,
+      "image_url": "https://images.unsplash.com/photo-1709294727694-837b95e378be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "m3n4o5p6-7q8r-9s0t-1u2v-3w4x5y6z7a8",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng ánh sáng lạnh",
+      "description": "Đèn lồng handmade với ánh sáng lạnh, thích hợp cho không gian hiện đại.",
+      "price": 2000000,
+      "image_url": "https://images.unsplash.com/photo-1585660559368-061abdc2dda2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "n4o5p6q7-8r9s-0t1u-2v3w-4x5y6z7a8b9",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng máy ảnh",
+      "description": "Túi xách handmade dành cho máy ảnh, bảo vệ và tiện dụng.",
+      "price": 1850000,
+      "image_url": "https://images.unsplash.com/photo-1701188516145-6576bf9d68bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "o5p6q7r8-9s0t-1u2v-3w4x-5y6z7a8b9c0",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da hoa văn",
+      "description": "Sổ tay handmade với da hoa văn độc đáo, rất ấn tượng.",
+      "price": 2550000,
+      "image_url": "https://images.unsplash.com/photo-1700171518313-5dd219beaaa6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "p6q7r8s9-0t1u-2v3w-4x5y-6z7a8b9c0d1",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương cà phê",
+      "description": "Xà phòng handmade với hương cà phê, giúp tẩy tế bào chết.",
+      "price": 1800000,
+      "image_url": "https://images.unsplash.com/photo-1626252685663-64c6bf60afb1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "q7r8s9t0-1u2v-3w4x-5y6z-7a8b9c0d1e2",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay đá ngọc",
+      "description": "Vòng tay handmade với đá ngọc quý giá, thiết kế đẹp mắt.",
+      "price": 2950000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1675719071705-5f338a1c9349?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "r8s9t0u1-2v3w-4x5y-6z7a-8b9c0d1e2f3",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng bàn",
+      "description": "Đèn lồng handmade dành cho bàn, thiết kế nhẹ nhàng và tinh tế.",
+      "price": 1600000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1673375200377-1fbb5f0d673f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "s9t0u1v2-3w4x-5y6z-7a8b-9c0d1e2f3g4",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đeo chéo",
+      "description": "Túi handmade đeo chéo, thiết kế trẻ trung và hiện đại.",
+      "price": 1850000,
+      "image_url": "https://images.unsplash.com/photo-1624731229016-5d09f04463fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjE5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "t0u1v2w3-4x5y-6z7a-8b9c-0d1e2f3g4h5",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay bìa da đen",
+      "description": "Sổ tay handmade với bìa da màu đen, thanh lịch và cổ điển.",
+      "price": 2400000,
+      "image_url": "https://images.unsplash.com/photo-1699823894439-d7f2bff0be67?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjE2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "u1v2w3x4-5y6z-7a8b-9c0d-1e2f3g4h5i6",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương chanh",
+      "description": "Xà phòng handmade với hương chanh tươi mới, làm sạch và thư giãn.",
+      "price": 1900000,
+      "image_url": "https://images.unsplash.com/photo-1496325823264-7cdf2ea4f0a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "v2w3x4y5-6z7a-8b9c-0d1e-2f3g4h5i6j7",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn từ đá hồng",
+      "description": "Nhẫn handmade với đá hồng, màu sắc nhẹ nhàng và quyến rũ.",
+      "price": 2100000,
+      "image_url": "https://images.unsplash.com/photo-1675693040950-0a684fcacee8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjMwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "w3x4y5z6-7a8b-9c0d-1e2f-3g4h5i6j7k8",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng ánh sáng đa màu",
+      "description": "Đèn lồng handmade với ánh sáng đa màu, tạo không gian vui tươi.",
+      "price": 1750000,
+      "image_url": "https://images.unsplash.com/photo-1686152400478-01f93a728af4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "x4y5z6a7-8b9c-0d1e-2f3g-4h5i6j7k8l9",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng tiền",
+      "description": "Túi xách handmade đựng tiền, nhỏ gọn và tiện dụng.",
+      "price": 1150000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661767790364-82dac8080472?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "y5z6a7b8-9c0d-1e2f-3g4h-5i6j7k8l9m0",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay bìa da nâu",
+      "description": "Sổ tay handmade với bìa da màu nâu, sang trọng và bền bỉ.",
+      "price": 2500000,
+      "image_url": "https://images.unsplash.com/photo-1667508867460-6a3364bd2c27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjUyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "z6a7b8c9-0d1e-2f3g-4h5i-6j7k8l9m0n1",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương hoa hồng",
+      "description": "Xà phòng handmade với hương hoa hồng, tạo cảm giác thư giãn và dễ chịu.",
+      "price": 2050000,
+      "image_url": "https://images.unsplash.com/photo-1550824179-d698bda9996a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "a7b8c9d0-1e2f-3g4h-5i6j-7k8l9m0n1o2",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay từ bạc 925",
+      "description": "Vòng tay handmade làm từ bạc 925, thiết kế thanh lịch.",
+      "price": 3250000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1675719055907-f46714957f08?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "b8c9d0e1-2f3g-4h5i-6j7k-8l9m0n1o2p3",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng nghệ thuật cho quán cà phê",
+      "description": "Đèn lồng handmade nghệ thuật, phù hợp cho quán cà phê và không gian thư giãn.",
+      "price": 2750000,
+      "image_url": "https://images.unsplash.com/photo-1531914530594-1982b1737a59?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "c9d0e1f2-3g4h-5i6j-7k8l-9m0n1o2p3q4",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng mỹ phẩm",
+      "description": "Túi handmade đựng mỹ phẩm, thiết kế nhỏ gọn và tiện dụng.",
+      "price": 1400000,
+      "image_url": "https://images.unsplash.com/photo-1616084521924-3dbdfb2e5234?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjY0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "d0e1f2g3-4h5i-6j7k-8l9m-0n1o2p3q4r",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay bìa da vân",
+      "description": "Sổ tay handmade với bìa da vân nổi bật, rất ấn tượng.",
+      "price": 2700000,
+      "image_url": "https://images.unsplash.com/photo-1654108324021-c11b10ff036b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjc0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "e1f2g3h4-5i6j-7k8l-9m0n-1o2p3q4r5s",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương hoa nhài",
+      "description": "Xà phòng handmade với hương hoa nhài, giúp làm mềm da.",
+      "price": 2200000,
+      "image_url": "https://images.unsplash.com/photo-1645957079520-d35adbbe64db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "f2g3h4i5-6j7k-8l9m-0n1o-2p3q4r5s6t",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay từ đá mã não",
+      "description": "Vòng tay handmade làm từ đá mã não, thiết kế bền đẹp.",
+      "price": 3050000,
+      "image_url": "https://images.unsplash.com/photo-1668073305588-a5b8e0ee229b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "g3h4i5j6-7k8l-9m0n-1o2p-3q4r5s6t7u",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng phong cách truyền thống",
+      "description": "Đèn lồng handmade phong cách truyền thống, trang trí ấm cúng.",
+      "price": 1850000,
+      "image_url": "https://images.unsplash.com/photo-1462219184706-54ee45591096?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjkyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "h4i5j6k7-8l9m-0n1o-2p3q-4r5s6t7u8v",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đeo chéo đa năng",
+      "description": "Túi handmade đeo chéo đa năng, tiện lợi cho mọi hoạt động.",
+      "price": 1950000,
+      "image_url": "https://images.unsplash.com/photo-1692967785725-9ea0be8c1654?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "i5j6k7l8-9m0n-1o2p-3q4r-5s6t7u8v9w",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da sần",
+      "description": "Sổ tay handmade với da sần, bền bỉ và chống trầy xước.",
+      "price": 2300000,
+      "image_url": "https://images.unsplash.com/photo-1705624427640-f966a07739cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "j6k7l8m9-0n1o-2p3q-4r5s-6t7u8v9w0x",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương oải hương",
+      "description": "Xà phòng handmade với hương oải hương, giúp thư giãn tinh thần.",
+      "price": 2300000,
+      "image_url": "https://images.unsplash.com/photo-1640978216529-9ff630d05ba1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "k7l8m9n0-1o2p-3q4r-5s6t-7u8v9w0x1y",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Nhẫn kim loại",
+      "description": "Nhẫn handmade làm từ kim loại, thiết kế mạnh mẽ và độc đáo.",
+      "price": 3000000,
+      "image_url": "https://images.unsplash.com/photo-1544018520-1dd648507d2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzAyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "l8m9n0o1-2p3q-4r5s-6t7u-8v9w0x1y2z",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng hoa văn nghệ thuật",
+      "description": "Đèn lồng handmade với hoa văn nghệ thuật, phù hợp cho trang trí.",
+      "price": 1950000,
+      "image_url": "https://images.unsplash.com/photo-1656871259137-bcd3946055c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzEwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "m9n0o1p2-3q4r-5s6t-7u8v-9w0x1y2z3a",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đựng điện thoại",
+      "description": "Túi handmade đựng điện thoại, thiết kế nhỏ gọn và tiện lợi.",
+      "price": 1250000,
+      "image_url": "https://images.unsplash.com/photo-1673252414045-bd9958f8b790?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "n0o1p2q3-4r5s-6t7u-8v9w-0x1y2z3a4b",
+      "categoryId": "c9f7b8e6-5d4a-4f8b-9e1c-2a5f3d4b7c6e",
+      "name": "Sổ tay da kiểu dáng cổ điển",
+      "description": "Sổ tay handmade với kiểu dáng cổ điển, bìa da chất lượng cao.",
+      "price": 2750000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1664268415683-b891763fcf98?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "o1p2q3r4-5s6t-7u8v-9w0x-1y2z3a4b5c",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hương bạc hà",
+      "description": "Xà phòng handmade với hương bạc hà, giúp làm mới và làm dịu da.",
+      "price": 2000000,
+      "image_url": "https://images.unsplash.com/photo-1505495533616-ed5f6ce6d4f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzEyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "p2q3r4s5-6t7u-8v9w-0x1y-2z3a4b5c6d",
+      "categoryId": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
+      "name": "Vòng tay từ đá mã não",
+      "description": "Vòng tay handmade làm từ đá mã não, thiết kế đẹp mắt.",
+      "price": 3300000,
+      "image_url": "https://images.unsplash.com/photo-1716819685618-2f7abb7fbed2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "q3r4s5t6-7u8v-9w0x-1y2z-3a4b5c6d7e",
+      "categoryId": "f2b8c7e9-6a4d-4c3b-b9e2-5d7a8f6b4c9e",
+      "name": "Đèn lồng phong cách tối giản",
+      "description": "Đèn lồng handmade phong cách tối giản, phù hợp cho không gian hiện đại.",
+      "price": 1650000,
+      "image_url": "https://images.unsplash.com/photo-1708317033463-e1350cff1392?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "r4s5t6u7-8v9w-0x1y-2z3a-4b5c6d7e8f",
+      "categoryId": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
+      "name": "Túi đeo hông",
+      "description": "Túi handmade đeo hông, thiết kế phong cách và tiện dụng.",
+      "price": 1750000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1664268415466-d4df65d0f6a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzI5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     }
-  ],
-  "profile": { "name": "po" }
+  ]
 }
