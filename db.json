@@ -777,6 +777,238 @@
       "description": "Túi handmade đeo hông, thiết kế phong cách và tiện dụng.",
       "price": 1750000,
       "image_url": "https://plus.unsplash.com/premium_photo-1664268415466-d4df65d0f6a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzI5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "e1f8c9b2-5d4e-4a2c-b6e7-2f9a8c1d7e0f",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa sen",
+      "description": "Tranh thêu tay hoa sen, mang lại không gian tươi mát và yên bình.",
+      "price": 1500000,
+      "image_url": "https://images.unsplash.com/photo-1686152400478-01f93a728af4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "f2a7b1c3-9d5e-4b2a-b4f6-3d7e9c0f2b8a",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay phong cảnh",
+      "description": "Tranh thêu tay phong cảnh thiên nhiên, tạo điểm nhấn cho không gian sống.",
+      "price": 2000000,
+      "image_url": "https://images.unsplash.com/photo-1673252414045-bd9958f8b790?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "g3b1c5a8-2d4e-4f7a-b9c1-0f2e8d3b7c5f",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay chùa một cột",
+      "description": "Tranh thêu tay chùa một cột, biểu tượng văn hóa Việt Nam.",
+      "price": 1800000,
+      "image_url": "https://images.unsplash.com/photo-1602607203588-d6d0eda790e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "h4c9b3d7-6e1f-4a8b-b5c2-3f9d8e7a2c1b",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay cảnh đồng quê",
+      "description": "Tranh thêu tay cảnh đồng quê, mang lại cảm giác bình yên và thư thái.",
+      "price": 2200000,
+      "image_url": "https://images.unsplash.com/photo-1651178086220-86a03e3ce515?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "i5d3e7f8-9a1b-4c2d-b5e6-2f8a1c0b3d7e",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa cúc",
+      "description": "Tranh thêu tay hoa cúc, tạo điểm nhấn nổi bật cho không gian.",
+      "price": 1700000,
+      "image_url": "https://media.istockphoto.com/id/1401686454/photo/homemade-buttermilk-with-fresh-mint-leaves-in-copper-mug-on-khaki-green-tablecloth.webp?b=1&s=170667a&w=0&k=20&c=0HcVA6QkowUHtM_df4NXD8m8O_Lu9fmxRGDbPpNIjQg="
+    },
+    {
+      "id": "j6f1b2c9-8d4e-4a5b-b9f0-3c7e8a5d1b2f",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay chim công",
+      "description": "Tranh thêu tay chim công, mang lại sự sang trọng và quý phái.",
+      "price": 2500000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677456381689-40beb7f4b155?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "k7a2b4c9-3d1e-4f8b-b6c7-2f9e0d1a5b3c",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay sông nước",
+      "description": "Tranh thêu tay sông nước, tạo không gian mở và thoáng đãng.",
+      "price": 2300000,
+      "image_url": "https://images.unsplash.com/photo-1565193565695-7144271f8501?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDAwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "l8b3c9d7-5e1f-4a6b-b2c3-3f7a8e9d0b1c",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa hồng",
+      "description": "Tranh thêu tay hoa hồng, biểu tượng của tình yêu và sự lãng mạn.",
+      "price": 1600000,
+      "image_url": "https://images.unsplash.com/photo-1506806389468-78d55f4e9f44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDA1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "m9c1d8e7-2f4a-4b3f-b9e0-1d7a8c5b2e3f",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay phố cổ",
+      "description": "Tranh thêu tay phố cổ, tái hiện lại hình ảnh phố xưa.",
+      "price": 2100000,
+      "image_url": "https://images.unsplash.com/photo-1686151663618-d40c5035c8ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "n0a9b1c7-8e4f-4d2b-b5c3-2f7a9e0c1b5d",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay rừng cây",
+      "description": "Tranh thêu tay rừng cây, mang lại không gian xanh mát và thư giãn.",
+      "price": 1900000,
+      "image_url": "https://images.unsplash.com/photo-1557176312-4c3befef1556?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDQ3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "o1b8c5d2-9f3e-4a7b-b2c1-0f8a9d7e3b5c",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bình hoa gốm sứ",
+      "description": "Bình hoa gốm sứ thủ công, thiết kế đơn giản và tinh tế.",
+      "price": 1400000,
+      "image_url": "https://images.unsplash.com/photo-1669124806301-6dfcfcd9cca1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDUxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "p2c7d3e9-8f1b-4a2d-b6c5-3f9e0a1b7d4f",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Tách trà gốm sứ",
+      "description": "Tách trà gốm sứ thủ công, mang lại cảm giác thưởng thức trà trọn vẹn.",
+      "price": 1200000,
+      "image_url": "https://images.unsplash.com/photo-1720746942634-fde192ea7346?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "q3d8e1f2-7b4a-4c5d-b9e6-2f0a1b7d8c9e",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Chén ăn gốm sứ",
+      "description": "Chén ăn gốm sứ thủ công, thiết kế hiện đại và đẹp mắt.",
+      "price": 1000000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1673611875064-5c199c074089?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "r4e7f2a1-6b8d-4c3e-b2a9-0f7c1b5d8a9e",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Đĩa gốm sứ họa tiết",
+      "description": "Đĩa gốm sứ thủ công với họa tiết độc đáo, phù hợp cho trang trí.",
+      "price": 1300000,
+      "image_url": "https://images.unsplash.com/photo-1588438761428-9451c893df20?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "s5f1a9b8-9d4e-4c2a-b6f3-2e0a7c1b8d9f",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bộ trà gốm sứ",
+      "description": "Bộ trà gốm sứ thủ công, thiết kế tinh tế và trang nhã.",
+      "price": 1500000,
+      "image_url": "https://images.unsplash.com/photo-1686152335424-390f20406c83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "t6g2b1a9-7d4e-4f3b-b5c2-3e8a0c9b1d7f",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Ấm trà gốm sứ",
+      "description": "Ấm trà gốm sứ thủ công, mang lại trải nghiệm thưởng thức trà tuyệt vời.",
+      "price": 1100000,
+      "image_url": "https://images.unsplash.com/photo-1503656554812-ef734ee0f9f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "u7h3c9e8-2f4a-4d7b-b1c6-0f2e9a5d8b3c",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Lọ hoa gốm sứ",
+      "description": "Lọ hoa gốm sứ thủ công, thiết kế hiện đại và sáng tạo.",
+      "price": 1350000,
+      "image_url": "https://images.unsplash.com/photo-1631612644973-80e448a28d0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzkyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "v8i2a9b1-9d3e-4f5c-b2a7-1f9c0b7e3d8a",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Đèn gốm sứ",
+      "description": "Đèn gốm sứ thủ công, tạo không gian ấm cúng và lãng mạn.",
+      "price": 1250000,
+      "image_url": "https://images.unsplash.com/photo-1677043293133-accf2c093f31?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDUzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "w9j3c8d7-5e2f-4a1b-b9d0-3f8a7e9c1b2f",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bát gốm sứ",
+      "description": "Bát gốm sứ thủ công, thiết kế đẹp mắt và tinh tế.",
+      "price": 1150000,
+      "image_url": "https://images.unsplash.com/photo-1669124806257-e25123539e2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDY1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "x0k4b9e8-1d5a-4f2c-b6e9-2f7a0c8d3b1e",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bình rượu gốm sứ",
+      "description": "Bình rượu gốm sứ thủ công, mang lại sự sang trọng và đẳng cấp.",
+      "price": 1450000,
+      "image_url": "https://images.unsplash.com/photo-1512911455673-5b69a621b1a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTA0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "y1l5c9a7-3f8e-4d1b-b2f3-0e9a5d7c8b2a",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Chén gốm sứ hoa văn",
+      "description": "Chén gốm sứ thủ công với hoa văn tinh xảo, phù hợp cho trang trí.",
+      "price": 1050000,
+      "image_url": "https://images.unsplash.com/photo-1520899981500-21af7ff24c2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDk5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "z2m6a9b1-9e4d-4c3f-b5a6-2f8c0b9d7e4a",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương vani",
+      "description": "Nến thơm thủ công hương vani, mang lại không gian ấm áp và ngọt ngào.",
+      "price": 900000,
+      "image_url": "https://images.unsplash.com/photo-1640978217349-1b7cb1f893c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTAzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "a3n7b8c9-1e5f-4d2a-b3c0-9e7a1f5d8b4a",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương lavender",
+      "description": "Nến thơm thủ công hương lavender, tạo cảm giác thư giãn và dễ chịu.",
+      "price": 950000,
+      "image_url": "https://images.unsplash.com/photo-1682953982710-1113d5c383c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTE3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "b4o8c9d1-2f3e-4a5b-b6c9-0f7e1a5d9b3a",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương cam",
+      "description": "Nến thơm thủ công hương cam, mang lại không gian tươi mát và sảng khoái.",
+      "price": 850000,
+      "image_url": "https://images.unsplash.com/photo-1628931619244-225e3ba52e53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTExfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "c5p9a1b2-3e7d-4c6f-b9a0-2f1d8c7b9e0a",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương sả",
+      "description": "Nến thơm thủ công hương sả, giúp xua đuổi muỗi và tạo không gian thoáng mát.",
+      "price": 800000,
+      "image_url": "https://images.unsplash.com/photo-1585660561226-fac72076d397?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "d6q0b9e1-4f2a-5c3d-b6e9-0f7a1c5b8d3e",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương hoa hồng",
+      "description": "Nến thơm thủ công hương hoa hồng, mang lại sự lãng mạn và dịu dàng.",
+      "price": 1000000,
+      "image_url": "https://images.unsplash.com/photo-1475578749612-705fc64d0574?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTMxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "e7r1c8b9-2f4d-5a6b-b3e0-9f7d1a2c0b8e",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương quế",
+      "description": "Nến thơm thủ công hương quế, tạo không gian ấm cúng và thư giãn.",
+      "price": 1100000,
+      "image_url": "https://images.unsplash.com/photo-1654111539308-1f86feff6ca3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTMyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "f8s2b1a9-3d5e-4c7f-b9a0-2f8e1d7c9b3f",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương dừa",
+      "description": "Nến thơm thủ công hương dừa, mang lại cảm giác tươi mát và dễ chịu.",
+      "price": 950000,
+      "image_url": "https://images.unsplash.com/photo-1631125915361-b749fdeea230?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTQ2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "g9t3c8e1-5f7a-4b9d-b1c0-2f3a7e0b9d5c",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm hương bưởi",
+      "description": "Nến thơm thủ công hương bưởi, mang lại không gian sảng khoái và tươi mới.",
+      "price": 900000,
+      "image_url": "https://images.unsplash.com/photo-1532881811662-b5422417e0e1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTUxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
     }
   ]
 }
