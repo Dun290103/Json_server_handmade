@@ -18,7 +18,7 @@
     },
     {
       "id": "e5f9b1c2-8a4d-4e7f-9c6b-7d4e8f6a9b5d",
-      "name": "Đồ trang sức handmade"
+      "name": "đồ trang sức thủ công"
     },
     {
       "id": "b6e3d4f8-7a9c-4b5e-b9d2-3f4b6a7e9c5d",
@@ -40,7 +40,7 @@
       "name": "Xà phòng thiên nhiên tinh dầu bưởi",
       "description": "Xà phòng handmade từ tinh dầu bưởi, làm sáng da.",
       "price": 189500,
-      "image_url": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
+      "image_url": "https://images.unsplash.com/photo-1556037914-bc3c9094e061?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
@@ -48,7 +48,7 @@
       "name": "Xà phòng thiên nhiên hoa nhài",
       "description": "Xà phòng handmade từ hoa nhài, thơm mát và dịu nhẹ.",
       "price": 210000,
-      "image_url": "https://images.unsplash.com/photo-1586216583645-bf798306a3d7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1664298144031-9097970e5bd3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
@@ -56,7 +56,7 @@
       "name": "Vòng tay gỗ",
       "description": "Vòng tay handmade làm từ gỗ tự nhiên.",
       "price": 375000,
-      "image_url": "https://images.unsplash.com/photo-1454873019514-eae2f086587a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
+      "image_url": "https://images.unsplash.com/photo-1631982681280-8ca46226a5c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
@@ -64,7 +64,7 @@
       "name": "Nhẫn bạc",
       "description": "Nhẫn handmade làm từ bạc, thiết kế đơn giản.",
       "price": 249000,
-      "image_url": "https://images.unsplash.com/photo-1590605049074-f1780f70b791?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1722510825309-8337970e947a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFuZG1hZGUlMjBqZXdlbHJ5fGVufDB8fDB8fHww"
     },
     {
       "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
@@ -72,7 +72,7 @@
       "name": "Đèn lồng thủ công",
       "description": "Đèn lồng handmade từ các vật liệu tự nhiên.",
       "price": 248000,
-      "image_url": "https://images.unsplash.com/photo-1590605095243-072811dbe64c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1675027775616-e61937ca8201?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aGFuZG1hZGUlMjBsYW50ZXJuc3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
@@ -80,7 +80,7 @@
       "name": "Đèn lồng trang trí",
       "description": "Đèn lồng handmade trang trí cho không gian thêm ấm cúng.",
       "price": 362000,
-      "image_url": "https://images.unsplash.com/photo-1595351298020-038700609878?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1673611875064-5c199c074089?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGFuZG1hZGUlMjBsYW50ZXJuc3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
@@ -88,7 +88,7 @@
       "name": "Túi xách dây rút",
       "description": "Túi xách handmade dây rút tiện lợi và thời trang.",
       "price": 1025000,
-      "image_url": "https://images.unsplash.com/photo-1635656797814-2493a866105f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1588122698107-836d3c39704c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGFuZG1hZGUlMjBiYWd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
@@ -96,7 +96,7 @@
       "name": "Túi xách du lịch",
       "description": "Túi xách handmade dành cho du lịch với nhiều ngăn.",
       "price": 485000,
-      "image_url": "https://images.unsplash.com/photo-1604510493959-8a20b3630d53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1682317056294-1970c953cfd7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SGFuZG1hZGUlMjBiYWd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
@@ -104,7 +104,7 @@
       "name": "Sổ tay kiểu dáng hiện đại",
       "description": "Sổ tay handmade kiểu dáng hiện đại và tiện dụng.",
       "price": 1575000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1668620538983-c5993e4a443d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1667251760588-551c3bd8cbae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SGFyZGNvdmVyJTIwaGFuZG1hZGUlMjBub3RlYm9vay58ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr0u",
@@ -112,7 +112,7 @@
       "name": "Sổ tay thiết kế cổ điển",
       "description": "Sổ tay handmade với thiết kế cổ điển và sang trọng.",
       "price": 2780000,
-      "image_url": "https://images.unsplash.com/photo-1590422886897-7dd50e58577e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1612367980327-7454a7276aa7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SGFyZGNvdmVyJTIwaGFuZG1hZGUlMjBub3RlYm9vay58ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1u",
@@ -120,7 +120,7 @@
       "name": "Xà phòng thiên nhiên hương liệu trái cây",
       "description": "Xà phòng handmade với hương trái cây tươi mát.",
       "price": 1125000,
-      "image_url": "https://images.unsplash.com/photo-1474625121024-7595bfbc57ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1671379513621-bd4bff9f7557?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2u",
@@ -128,7 +128,7 @@
       "name": "Xà phòng thiên nhiên tinh dầu",
       "description": "Xà phòng handmade từ tinh dầu tự nhiên, dưỡng da hiệu quả.",
       "price": 1420000,
-      "image_url": "https://images.unsplash.com/photo-1532505593-12fcd530eba3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1679046947996-f8492c7276cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3u",
@@ -136,7 +136,7 @@
       "name": "Lắc tay thủ công từ vỏ sò",
       "description": "Lắc tay handmade từ vỏ sò và dây da.",
       "price": 1895000,
-      "image_url": "https://images.unsplash.com/photo-1530016143569-dc4a7c89173b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1722510825242-0d8f2064c2e2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFuZG1hZGUlMjBqZXdlbHJ5fGVufDB8fDB8fHww"
     },
     {
       "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4u",
@@ -144,7 +144,7 @@
       "name": "Vòng cổ gỗ",
       "description": "Vòng cổ handmade làm từ gỗ tự nhiên.",
       "price": 2550000,
-      "image_url": "https://images.unsplash.com/photo-1541085478756-418a3402fcb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1652007233137-62275940bfc1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5u",
@@ -152,7 +152,7 @@
       "name": "Đèn lồng phong cách vintage",
       "description": "Đèn lồng handmade phong cách vintage, đẹp và ấm cúng.",
       "price": 2780000,
-      "image_url": "https://images.unsplash.com/photo-1536000800373-5b5e6020910a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1673281339462-1f5cdfd0606f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGFuZG1hZGUlMjBsYW50ZXJuc3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6u",
@@ -160,7 +160,7 @@
       "name": "Đèn lồng thủ công từ giấy",
       "description": "Đèn lồng handmade từ giấy, phù hợp cho các dịp lễ hội.",
       "price": 2090000,
-      "image_url": "https://images.unsplash.com/photo-1518650806754-d6fc7bb5b5c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1704812102672-0f17873752db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7u",
@@ -168,7 +168,7 @@
       "name": "Túi đeo chéo",
       "description": "Túi xách handmade đeo chéo, thiết kế thời trang và tiện lợi.",
       "price": 300000,
-      "image_url": "https://images.unsplash.com/photo-1517241600143-3315d2a45e6d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1682316967717-16b32a406559?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SGFuZG1hZGUlMjBiYWd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8u",
@@ -176,7 +176,7 @@
       "name": "Túi tote vải lanh",
       "description": "Túi tote handmade làm từ vải lanh bền và nhẹ.",
       "price": 450000,
-      "image_url": "https://images.unsplash.com/photo-1466027449668-27f96b692ba4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1652007416494-a97c27a57e27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SGFuZG1hZGUlMjBiYWd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9u",
@@ -184,7 +184,7 @@
       "name": "Sổ tay handmade da bò",
       "description": "Sổ tay handmade bọc da bò, chất lượng và bền bỉ.",
       "price": 2100000,
-      "image_url": "https://images.unsplash.com/photo-1527383214149-cb7be04ae387?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr0v",
@@ -192,7 +192,7 @@
       "name": "Sổ tay da cừu",
       "description": "Sổ tay handmade làm từ da cừu mềm mại và sang trọng.",
       "price": 3250000,
-      "image_url": "https://images.unsplash.com/photo-1493236272120-200db0da1927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1414919823178-e9d9d0afd0ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr2u",
@@ -200,7 +200,7 @@
       "name": "Xà phòng thiên nhiên hương liệu hoa hồng",
       "description": "Xà phòng handmade với hương hoa hồng, làm mềm da.",
       "price": 1450000,
-      "image_url": "https://images.unsplash.com/photo-1527505937496-ec9bd1d25da5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1664288594015-fb7e64281155?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr3u",
@@ -208,7 +208,7 @@
       "name": "Xà phòng thiên nhiên hương liệu lavender",
       "description": "Xà phòng handmade với hương lavender thư giãn.",
       "price": 1330000,
-      "image_url": "https://images.unsplash.com/photo-1528107583409-fbd56547bb28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr4u",
@@ -216,7 +216,7 @@
       "name": "Vòng tay đá quý",
       "description": "Vòng tay handmade làm từ đá quý tự nhiên.",
       "price": 2850000,
-      "image_url": "https://images.unsplash.com/photo-1531357732422-758bdf2af3d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1661009603404-200d20353dac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr5u",
@@ -224,7 +224,7 @@
       "name": "Nhẫn đá quý",
       "description": "Nhẫn handmade làm từ đá quý với thiết kế tinh tế.",
       "price": 1850000,
-      "image_url": "https://images.unsplash.com/photo-1590538141485-2790d32fc62a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1722510825571-8cdd1fe98ba4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr6u",
@@ -232,7 +232,7 @@
       "name": "Đèn lồng trang trí tết",
       "description": "Đèn lồng handmade trang trí tết với màu sắc rực rỡ.",
       "price": 3250000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1702504054656-76c2c987b519?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1644998234282-e6b65f470e22?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFuZG1hZGUlMjBsYW50ZXJuc3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr7u",
@@ -240,7 +240,7 @@
       "name": "Đèn lồng ánh sáng mềm",
       "description": "Đèn lồng handmade với ánh sáng mềm mại, tạo không gian thư giãn.",
       "price": 1820000,
-      "image_url": "https://images.unsplash.com/photo-1480355781839-51097c7d4f9f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1677534712375-21ec7a460a71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr8u",
@@ -248,7 +248,7 @@
       "name": "Túi xách da bò",
       "description": "Túi xách handmade làm từ da bò cao cấp.",
       "price": 3450000,
-      "image_url": "https://images.unsplash.com/photo-1561030144-775b0ba95af6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://images.unsplash.com/photo-1652007097858-4850b6c2d9a8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr9u",
@@ -256,7 +256,7 @@
       "name": "Túi xách canvas",
       "description": "Túi xách handmade làm từ canvas bền và dễ phối đồ.",
       "price": 255000,
-      "image_url": "https://images.unsplash.com/photo-1562838089-9d088a1da4d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fGhhbmRtYWRlfGVufDB8fDB8fHww"
+      "image_url": "https://plus.unsplash.com/premium_photo-1689247409718-48408527fe97?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr0v",
@@ -264,7 +264,7 @@
       "name": "Sổ tay vỏ gỗ",
       "description": "Sổ tay handmade với vỏ gỗ, thiết kế độc đáo và tự nhiên.",
       "price": 1500000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1677621682465-7eb149f8a811?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1528938102132-4a9276b8e320?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr1w",
@@ -272,7 +272,7 @@
       "name": "Sổ tay da sần",
       "description": "Sổ tay handmade với da sần, cứng cáp và chắc chắn.",
       "price": 2750000,
-      "image_url": "https://images.unsplash.com/photo-1656075992106-310ff318a512?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1502550145-cd245e2ec6eb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr2w",
@@ -280,7 +280,7 @@
       "name": "Xà phòng thiên nhiên hương chanh",
       "description": "Xà phòng handmade với hương chanh tươi mới.",
       "price": 1290000,
-      "image_url": "https://images.unsplash.com/photo-1581572627889-0ff9e6ff8941?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1618840313409-66c0d92d6f26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTV8fG5hdHVyYWwlMjBzb2FwJTIwaGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr3w",
@@ -288,7 +288,7 @@
       "name": "Xà phòng thiên nhiên hương oải hương",
       "description": "Xà phòng handmade với hương oải hương, giúp thư giãn.",
       "price": 1340000,
-      "image_url": "https://images.unsplash.com/photo-1596140158734-8d0caf585aec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1684407617039-cedfaa2ca73a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEzfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr4w",
@@ -296,7 +296,7 @@
       "name": "Vòng tay bạc 925",
       "description": "Vòng tay handmade làm từ bạc 925, thanh lịch và sang trọng.",
       "price": 2950000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1677621678886-f16c7b96779c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1573575154350-35e29dfd6cdc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr5w",
@@ -304,7 +304,7 @@
       "name": "Nhẫn thủ công từ gốm sứ",
       "description": "Nhẫn handmade làm từ gốm sứ với thiết kế độc đáo.",
       "price": 1950000,
-      "image_url": "https://images.unsplash.com/photo-1701461761962-52013638ccf1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1597737175203-3b86b744081a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr6w",
@@ -312,7 +312,7 @@
       "name": "Đèn lồng nghệ thuật",
       "description": "Đèn lồng handmade với thiết kế nghệ thuật, tạo điểm nhấn cho không gian.",
       "price": 2750000,
-      "image_url": "https://images.unsplash.com/photo-1588242075039-842872c4b5dc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1676232731565-f193e02ef531?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr7w",
@@ -320,7 +320,7 @@
       "name": "Đèn lồng cắm điện",
       "description": "Đèn lồng handmade cắm điện, tiện dụng và đẹp mắt.",
       "price": 1150000,
-      "image_url": "https://images.unsplash.com/photo-1602607203588-d6d0eda790e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661963081475-dbd48fe1d812?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr8w",
@@ -328,7 +328,7 @@
       "name": "Túi xách laptop",
       "description": "Túi xách handmade dành cho laptop, bảo vệ và thời trang.",
       "price": 1450000,
-      "image_url": "https://images.unsplash.com/photo-1600888272025-089d1591dbf9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1531357732422-758bdf2af3d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr9w",
@@ -336,7 +336,7 @@
       "name": "Túi đựng đồ trang điểm",
       "description": "Túi xách handmade đựng đồ trang điểm, tiện dụng và nhỏ gọn.",
       "price": 275000,
-      "image_url": "https://images.unsplash.com/photo-1587566554235-15a39f4bd8f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1685489814583-dfaf44dbcac8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr0x",
@@ -344,7 +344,7 @@
       "name": "Sổ tay bìa vải dệt",
       "description": "Sổ tay handmade với bìa vải dệt nhiều màu sắc.",
       "price": 2200000,
-      "image_url": "https://images.unsplash.com/photo-1580642682609-8b6ab251fbb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1632067694887-097be1c5c5d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "0a1b2c3d-4e5f-6g7h-8i9j-klmn0opqr2x",
@@ -352,7 +352,7 @@
       "name": "Sổ tay vải thổ cẩm",
       "description": "Sổ tay handmade với vải thổ cẩm truyền thống.",
       "price": 1850000,
-      "image_url": "https://images.unsplash.com/photo-1682953450172-2b0302b6f3f3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1676930551268-54f8608306e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr3x",
@@ -360,7 +360,7 @@
       "name": "Xà phòng thiên nhiên hương bạc hà",
       "description": "Xà phòng handmade với hương bạc hà tươi mới.",
       "price": 1250000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661762631372-04f8020cf8ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1607006633821-b8b0f6988295?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr4x",
@@ -368,7 +368,7 @@
       "name": "Xà phòng thiên nhiên hương quế",
       "description": "Xà phòng handmade với hương quế ấm áp.",
       "price": 1375000,
-      "image_url": "https://images.unsplash.com/photo-1631125915800-4008fc1072ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1645824182821-33e5985ba373?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI3fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr5x",
@@ -376,7 +376,7 @@
       "name": "Vòng tay đá cẩm thạch",
       "description": "Vòng tay handmade làm từ đá cẩm thạch tự nhiên.",
       "price": 2750000,
-      "image_url": "https://images.unsplash.com/photo-1489435518427-e047d52082f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1573227895226-86880bc6ce44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr6x",
@@ -384,7 +384,7 @@
       "name": "Nhẫn thủ công từ đồng",
       "description": "Nhẫn handmade làm từ đồng với thiết kế tinh xảo.",
       "price": 1450000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661757467011-a9c47cc9e1da?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1508022909583-69228d7b2f8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr7x",
@@ -392,7 +392,7 @@
       "name": "Đèn lồng trang trí tiệc cưới",
       "description": "Đèn lồng handmade trang trí cho tiệc cưới, đẹp mắt và sang trọng.",
       "price": 2750000,
-      "image_url": "https://images.unsplash.com/photo-1585002400872-ec6f400e56b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1673281338580-ce9297900518?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr8x",
@@ -400,7 +400,7 @@
       "name": "Đèn lồng thủ công ánh sáng ấm",
       "description": "Đèn lồng handmade với ánh sáng ấm áp, tạo không gian lãng mạn.",
       "price": 1420000,
-      "image_url": "https://images.unsplash.com/photo-1651178086220-86a03e3ce515?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1512599900425-6d10fd2467c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr9x",
@@ -408,7 +408,7 @@
       "name": "Túi đeo vai",
       "description": "Túi đeo vai handmade với thiết kế tiện lợi và thời trang.",
       "price": 325000,
-      "image_url": "https://images.unsplash.com/photo-1602607202950-a06a2a03cb9d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1711548244653-72219aa9ac27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "8d4b8d7a-1f2b-3c4e-5d6f-7g8h9i0jklmn",
@@ -416,7 +416,7 @@
       "name": "Túi xách da mềm",
       "description": "Túi xách handmade làm từ da mềm, thiết kế thanh lịch.",
       "price": 2150000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661757454336-02f8daf6a27a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1681498856888-2f3552c0b189?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "9e5d6c7b-2f3g-4h5i-6j7k-8l9m0n1o2pqr",
@@ -424,7 +424,7 @@
       "name": "Sổ tay vỏ vải mềm",
       "description": "Sổ tay handmade với vỏ vải mềm mại và màu sắc tươi sáng.",
       "price": 1750000,
-      "image_url": "https://images.unsplash.com/photo-1702285413263-f39d4ee95c3b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1711051505860-346a8b58d882?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "a1b2c3d4-5e6f-7g8h-9i0j-klmn1opq2r3",
@@ -432,7 +432,7 @@
       "name": "Xà phòng thiên nhiên hương trà xanh",
       "description": "Xà phòng handmade với hương trà xanh, làm sạch và thư giãn.",
       "price": 1450000,
-      "image_url": "https://images.unsplash.com/photo-1523263889714-d345f8119047?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1712665167427-16730a482f67?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM1fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "b2c3d4e5-6f7g-8h9i-0j1k-lmn2opq3r4s",
@@ -440,7 +440,7 @@
       "name": "Vòng tay từ gỗ",
       "description": "Vòng tay handmade làm từ gỗ tự nhiên, phong cách cổ điển.",
       "price": 1950000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661760832236-8e3f6987e0e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661429195949-8c1b7fa429d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "c3d4e5f6-7g8h-9i0j-1k2l-mn3op4qr5s6t",
@@ -448,7 +448,7 @@
       "name": "Đèn lồng trang trí sinh nhật",
       "description": "Đèn lồng handmade trang trí sinh nhật, màu sắc vui tươi.",
       "price": 2200000,
-      "image_url": "https://images.unsplash.com/photo-1699823891919-75016a04207d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1672837365784-389578a67c05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "d4e5f6g7-8h9i-0j1k-2l3m-n4op5qr6s7t8",
@@ -456,7 +456,7 @@
       "name": "Túi đựng sách",
       "description": "Túi handmade đựng sách, thiết kế tiện dụng và thời trang.",
       "price": 1550000,
-      "image_url": "https://images.unsplash.com/photo-1683743116748-47f7caf00b95?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1585660559368-061abdc2dda2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "e5f6g7h8-9i0j-1k2l-3m4n-op5qr6s7t8u",
@@ -464,7 +464,7 @@
       "name": "Sổ tay da vân",
       "description": "Sổ tay handmade với da vân đẹp mắt, bền bỉ và sang trọng.",
       "price": 2750000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661764425915-2ab18f827e2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTczfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1597945177273-f63c45b0fea5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "f6g7h8i9-0j1k-2l3m-4n5o-p6qr7s8t9u0v",
@@ -472,7 +472,7 @@
       "name": "Xà phòng thiên nhiên hương gừng",
       "description": "Xà phòng handmade với hương gừng ấm áp, giúp kích thích lưu thông máu.",
       "price": 1550000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661761703557-90bb01b89af2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1678216966033-a84ed303f1eb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMzfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "g7h8i9j0-1k2l-3m4n-5o6p-q7r8s9t0u1v",
@@ -480,7 +480,7 @@
       "name": "Nhẫn đá quý màu xanh",
       "description": "Nhẫn handmade với đá quý màu xanh, tinh tế và sang trọng.",
       "price": 2450000,
-      "image_url": "https://images.unsplash.com/photo-1636049839022-9b0b13858f05?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1625844523803-862b33d9eef7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "h8i9j0k1-2l3m-4n5o-6p7q-r8s9t0u1v2w",
@@ -488,7 +488,7 @@
       "name": "Đèn lồng nghệ thuật đám cưới",
       "description": "Đèn lồng handmade nghệ thuật cho đám cưới, trang trí sang trọng.",
       "price": 3200000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661767713867-3dd72b515980?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1670728016674-c2b2a576a733?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "i9j0k1l2-3m4n-5o6p-7q8r-9s0t1u2v3w4",
@@ -496,7 +496,7 @@
       "name": "Túi đựng laptop da",
       "description": "Túi xách handmade đựng laptop, làm từ da cao cấp.",
       "price": 2950000,
-      "image_url": "https://images.unsplash.com/photo-1625978356752-5747f73a48ad?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1683224494826-88dc025ec028?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "j0k1l2m3-4n5o-6p7q-8r9s-t0u1v2w3x4y",
@@ -504,7 +504,7 @@
       "name": "Sổ tay da mềm mại",
       "description": "Sổ tay handmade với da mềm mại, tạo cảm giác dễ chịu khi sử dụng.",
       "price": 1600000,
-      "image_url": "https://images.unsplash.com/photo-1517236974035-6470b2eb4272?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1683309565307-fc8dc2dc18c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "k1l2m3n4-5o6p-7q8r-9s0t-u1v2w3x4y5z",
@@ -512,7 +512,7 @@
       "name": "Xà phòng thiên nhiên hương dưa leo",
       "description": "Xà phòng handmade với hương dưa leo, giúp làm mát và làm dịu da.",
       "price": 1700000,
-      "image_url": "https://images.unsplash.com/photo-1529139760315-66f8562cb1c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1614806687528-752e5a2c3b29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "l2m3n4o5-6p7q-8r9s-0t1u-2v3w4x5y6z7",
@@ -520,7 +520,7 @@
       "name": "Vòng tay đá thạch anh",
       "description": "Vòng tay handmade với đá thạch anh, tạo cảm giác thanh thản.",
       "price": 2250000,
-      "image_url": "https://images.unsplash.com/photo-1709294727694-837b95e378be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1602751584581-2e0372975b46?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "m3n4o5p6-7q8r-9s0t-1u2v-3w4x5y6z7a8",
@@ -528,7 +528,7 @@
       "name": "Đèn lồng ánh sáng lạnh",
       "description": "Đèn lồng handmade với ánh sáng lạnh, thích hợp cho không gian hiện đại.",
       "price": 2000000,
-      "image_url": "https://images.unsplash.com/photo-1585660559368-061abdc2dda2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1669406525274-28036c0292af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "n4o5p6q7-8r9s-0t1u-2v3w-4x5y6z7a8b9",
@@ -536,7 +536,7 @@
       "name": "Túi đựng máy ảnh",
       "description": "Túi xách handmade dành cho máy ảnh, bảo vệ và tiện dụng.",
       "price": 1850000,
-      "image_url": "https://images.unsplash.com/photo-1701188516145-6576bf9d68bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661508463009-b313bba4eeba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "o5p6q7r8-9s0t-1u2v-3w4x-5y6z7a8b9c0",
@@ -544,7 +544,7 @@
       "name": "Sổ tay da hoa văn",
       "description": "Sổ tay handmade với da hoa văn độc đáo, rất ấn tượng.",
       "price": 2550000,
-      "image_url": "https://images.unsplash.com/photo-1700171518313-5dd219beaaa6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1616593772469-06af874a6fe6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "p6q7r8s9-0t1u-2v3w-4x5y-6z7a8b9c0d1",
@@ -552,7 +552,7 @@
       "name": "Xà phòng thiên nhiên hương cà phê",
       "description": "Xà phòng handmade với hương cà phê, giúp tẩy tế bào chết.",
       "price": 1800000,
-      "image_url": "https://images.unsplash.com/photo-1626252685663-64c6bf60afb1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1696881694567-cd1a97958fc8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM5fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "q7r8s9t0-1u2v-3w4x-5y6z-7a8b9c0d1e2",
@@ -560,7 +560,7 @@
       "name": "Vòng tay đá ngọc",
       "description": "Vòng tay handmade với đá ngọc quý giá, thiết kế đẹp mắt.",
       "price": 2950000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1675719071705-5f338a1c9349?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1681276168422-ebd2d7e95340?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "r8s9t0u1-2v3w-4x5y-6z7a-8b9c0d1e2f3",
@@ -568,7 +568,7 @@
       "name": "Đèn lồng bàn",
       "description": "Đèn lồng handmade dành cho bàn, thiết kế nhẹ nhàng và tinh tế.",
       "price": 1600000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1673375200377-1fbb5f0d673f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1721829321073-27e6cb0b6a0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "s9t0u1v2-3w4x-5y6z-7a8b-9c0d1e2f3g4",
@@ -576,7 +576,7 @@
       "name": "Túi đeo chéo",
       "description": "Túi handmade đeo chéo, thiết kế trẻ trung và hiện đại.",
       "price": 1850000,
-      "image_url": "https://images.unsplash.com/photo-1624731229016-5d09f04463fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjE5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1587761084230-6eb036bc250a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "t0u1v2w3-4x5y-6z7a-8b9c-0d1e2f3g4h5",
@@ -584,7 +584,7 @@
       "name": "Sổ tay bìa da đen",
       "description": "Sổ tay handmade với bìa da màu đen, thanh lịch và cổ điển.",
       "price": 2400000,
-      "image_url": "https://images.unsplash.com/photo-1699823894439-d7f2bff0be67?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjE2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1677187301481-34be1be7b558?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "u1v2w3x4-5y6z-7a8b-9c0d-1e2f3g4h5i6",
@@ -592,7 +592,7 @@
       "name": "Xà phòng thiên nhiên hương chanh",
       "description": "Xà phòng handmade với hương chanh tươi mới, làm sạch và thư giãn.",
       "price": 1900000,
-      "image_url": "https://images.unsplash.com/photo-1496325823264-7cdf2ea4f0a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1614806687007-2215a9db3b1c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQwfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "v2w3x4y5-6z7a-8b9c-0d1e-2f3g4h5i6j7",
@@ -600,7 +600,7 @@
       "name": "Nhẫn từ đá hồng",
       "description": "Nhẫn handmade với đá hồng, màu sắc nhẹ nhàng và quyến rũ.",
       "price": 2100000,
-      "image_url": "https://images.unsplash.com/photo-1675693040950-0a684fcacee8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjMwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1450297166380-cabe503887e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "w3x4y5z6-7a8b-9c0d-1e2f-3g4h5i6j7k8",
@@ -608,7 +608,7 @@
       "name": "Đèn lồng ánh sáng đa màu",
       "description": "Đèn lồng handmade với ánh sáng đa màu, tạo không gian vui tươi.",
       "price": 1750000,
-      "image_url": "https://images.unsplash.com/photo-1686152400478-01f93a728af4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1664304869167-130629c66932?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGhhbmRtYWRlJTIwbGFudGVybnN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "x4y5z6a7-8b9c-0d1e-2f3g-4h5i6j7k8l9",
@@ -616,7 +616,7 @@
       "name": "Túi đựng tiền",
       "description": "Túi xách handmade đựng tiền, nhỏ gọn và tiện dụng.",
       "price": 1150000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1661767790364-82dac8080472?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1681233752553-43fcf01c65a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "y5z6a7b8-9c0d-1e2f-3g4h-5i6j7k8l9m0",
@@ -624,7 +624,7 @@
       "name": "Sổ tay bìa da nâu",
       "description": "Sổ tay handmade với bìa da màu nâu, sang trọng và bền bỉ.",
       "price": 2500000,
-      "image_url": "https://images.unsplash.com/photo-1667508867460-6a3364bd2c27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjUyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1685287732184-c56a05cf4b6f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "z6a7b8c9-0d1e-2f3g-4h5i-6j7k8l9m0n1",
@@ -632,7 +632,7 @@
       "name": "Xà phòng thiên nhiên hương hoa hồng",
       "description": "Xà phòng handmade với hương hoa hồng, tạo cảm giác thư giãn và dễ chịu.",
       "price": 2050000,
-      "image_url": "https://images.unsplash.com/photo-1550824179-d698bda9996a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1664178266014-962656266911?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ0fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "a7b8c9d0-1e2f-3g4h-5i6j-7k8l9m0n1o2",
@@ -640,7 +640,7 @@
       "name": "Vòng tay từ bạc 925",
       "description": "Vòng tay handmade làm từ bạc 925, thiết kế thanh lịch.",
       "price": 3250000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1675719055907-f46714957f08?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1681276170683-706111cf496e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "b8c9d0e1-2f3g-4h5i-6j7k-8l9m0n1o2p3",
@@ -648,7 +648,7 @@
       "name": "Đèn lồng nghệ thuật cho quán cà phê",
       "description": "Đèn lồng handmade nghệ thuật, phù hợp cho quán cà phê và không gian thư giãn.",
       "price": 2750000,
-      "image_url": "https://images.unsplash.com/photo-1531914530594-1982b1737a59?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1507435301156-0fa0556bf30b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxoYW5kbWFkZSUyMGxhbnRlcm5zfGVufDB8fDB8fHww"
     },
     {
       "id": "c9d0e1f2-3g4h-5i6j-7k8l-9m0n1o2p3q4",
@@ -656,7 +656,7 @@
       "name": "Túi đựng mỹ phẩm",
       "description": "Túi handmade đựng mỹ phẩm, thiết kế nhỏ gọn và tiện dụng.",
       "price": 1400000,
-      "image_url": "https://images.unsplash.com/photo-1616084521924-3dbdfb2e5234?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjY0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1671028547420-a541b5a1243e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "d0e1f2g3-4h5i-6j7k-8l9m-0n1o2p3q4r",
@@ -664,7 +664,7 @@
       "name": "Sổ tay bìa da vân",
       "description": "Sổ tay handmade với bìa da vân nổi bật, rất ấn tượng.",
       "price": 2700000,
-      "image_url": "https://images.unsplash.com/photo-1654108324021-c11b10ff036b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjc0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1676925808322-02338c72491a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTN8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "e1f2g3h4-5i6j-7k8l-9m0n-1o2p3q4r5s",
@@ -672,7 +672,7 @@
       "name": "Xà phòng thiên nhiên hương hoa nhài",
       "description": "Xà phòng handmade với hương hoa nhài, giúp làm mềm da.",
       "price": 2200000,
-      "image_url": "https://images.unsplash.com/photo-1645957079520-d35adbbe64db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1663108275588-f39db09701e1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYyfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "f2g3h4i5-6j7k-8l9m-0n1o-2p3q4r5s6t",
@@ -680,7 +680,7 @@
       "name": "Vòng tay từ đá mã não",
       "description": "Vòng tay handmade làm từ đá mã não, thiết kế bền đẹp.",
       "price": 3050000,
-      "image_url": "https://images.unsplash.com/photo-1668073305588-a5b8e0ee229b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1600721391776-b5cd0e0048f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODd8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "g3h4i5j6-7k8l-9m0n-1o2p-3q4r5s6t7u",
@@ -688,7 +688,7 @@
       "name": "Đèn lồng phong cách truyền thống",
       "description": "Đèn lồng handmade phong cách truyền thống, trang trí ấm cúng.",
       "price": 1850000,
-      "image_url": "https://images.unsplash.com/photo-1462219184706-54ee45591096?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjkyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1697566997850-b32218689d34?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxoYW5kbWFkZSUyMGxhbnRlcm5zfGVufDB8fDB8fHww"
     },
     {
       "id": "h4i5j6k7-8l9m-0n1o-2p3q-4r5s6t7u8v",
@@ -696,7 +696,7 @@
       "name": "Túi đeo chéo đa năng",
       "description": "Túi handmade đeo chéo đa năng, tiện lợi cho mọi hoạt động.",
       "price": 1950000,
-      "image_url": "https://images.unsplash.com/photo-1692967785725-9ea0be8c1654?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1672307885281-1f1437c612df?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "i5j6k7l8-9m0n-1o2p-3q4r-5s6t7u8v9w",
@@ -704,7 +704,7 @@
       "name": "Sổ tay da sần",
       "description": "Sổ tay handmade với da sần, bền bỉ và chống trầy xước.",
       "price": 2300000,
-      "image_url": "https://images.unsplash.com/photo-1705624427640-f966a07739cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1685287731068-803ce40dd478?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fEhhcmRjb3ZlciUyMGhhbmRtYWRlJTIwbm90ZWJvb2sufGVufDB8fDB8fHww"
     },
     {
       "id": "j6k7l8m9-0n1o-2p3q-4r5s-6t7u8v9w0x",
@@ -712,7 +712,7 @@
       "name": "Xà phòng thiên nhiên hương oải hương",
       "description": "Xà phòng handmade với hương oải hương, giúp thư giãn tinh thần.",
       "price": 2300000,
-      "image_url": "https://images.unsplash.com/photo-1640978216529-9ff630d05ba1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1709462970940-64ed68e6bf5d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY0fHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "k7l8m9n0-1o2p-3q4r-5s6t-7u8v9w0x1y",
@@ -720,7 +720,7 @@
       "name": "Nhẫn kim loại",
       "description": "Nhẫn handmade làm từ kim loại, thiết kế mạnh mẽ và độc đáo.",
       "price": 3000000,
-      "image_url": "https://images.unsplash.com/photo-1544018520-1dd648507d2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzAyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1700740343059-84e6c80fd14d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "l8m9n0o1-2p3q-4r5s-6t7u-8v9w0x1y2z",
@@ -728,7 +728,7 @@
       "name": "Đèn lồng hoa văn nghệ thuật",
       "description": "Đèn lồng handmade với hoa văn nghệ thuật, phù hợp cho trang trí.",
       "price": 1950000,
-      "image_url": "https://images.unsplash.com/photo-1656871259137-bcd3946055c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzEwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1533686055147-d2e3db5fce0b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxoYW5kbWFkZSUyMGxhbnRlcm5zfGVufDB8fDB8fHww"
     },
     {
       "id": "m9n0o1p2-3q4r-5s6t-7u8v-9w0x1y2z3a",
@@ -736,7 +736,7 @@
       "name": "Túi đựng điện thoại",
       "description": "Túi handmade đựng điện thoại, thiết kế nhỏ gọn và tiện lợi.",
       "price": 1250000,
-      "image_url": "https://images.unsplash.com/photo-1673252414045-bd9958f8b790?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1555885425-f605efd01224?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "n0o1p2q3-4r5s-6t7u-8v9w-0x1y2z3a4b",
@@ -744,7 +744,7 @@
       "name": "Sổ tay da kiểu dáng cổ điển",
       "description": "Sổ tay handmade với kiểu dáng cổ điển, bìa da chất lượng cao.",
       "price": 2750000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1664268415683-b891763fcf98?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1706189732026-37f961316fbd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM3fHxIYXJkY292ZXIlMjBoYW5kbWFkZSUyMG5vdGVib29rLnxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "o1p2q3r4-5s6t-7u8v-9w0x-1y2z3a4b5c",
@@ -752,7 +752,7 @@
       "name": "Xà phòng thiên nhiên hương bạc hà",
       "description": "Xà phòng handmade với hương bạc hà, giúp làm mới và làm dịu da.",
       "price": 2000000,
-      "image_url": "https://images.unsplash.com/photo-1505495533616-ed5f6ce6d4f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzEyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1684407617039-cedfaa2ca73a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEzfHxuYXR1cmFsJTIwc29hcCUyMGhhbmRtYWRlfGVufDB8fDB8fHww"
     },
     {
       "id": "p2q3r4s5-6t7u-8v9w-0x1y-2z3a4b5c6d",
@@ -760,7 +760,7 @@
       "name": "Vòng tay từ đá mã não",
       "description": "Vòng tay handmade làm từ đá mã não, thiết kế đẹp mắt.",
       "price": 3300000,
-      "image_url": "https://images.unsplash.com/photo-1716819685618-2f7abb7fbed2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODh8fGhhbmRtYWRlJTIwamV3ZWxyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "q3r4s5t6-7u8v-9w0x-1y2z-3a4b5c6d7e",
@@ -768,7 +768,7 @@
       "name": "Đèn lồng phong cách tối giản",
       "description": "Đèn lồng handmade phong cách tối giản, phù hợp cho không gian hiện đại.",
       "price": 1650000,
-      "image_url": "https://images.unsplash.com/photo-1708317033463-e1350cff1392?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1610901969402-d142a98fbf39?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIwfHxoYW5kbWFkZSUyMGxhbnRlcm5zfGVufDB8fDB8fHww"
     },
     {
       "id": "r4s5t6u7-8v9w-0x1y-2z3a-4b5c6d7e8f",
@@ -776,7 +776,7 @@
       "name": "Túi đeo hông",
       "description": "Túi handmade đeo hông, thiết kế phong cách và tiện dụng.",
       "price": 1750000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1664268415466-d4df65d0f6a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzI5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1624687943971-e86af76d57de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fEhhbmRtYWRlJTIwYmFnfGVufDB8fDB8fHww"
     },
     {
       "id": "e1f8c9b2-5d4e-4a2c-b6e7-2f9a8c1d7e0f",
@@ -784,7 +784,7 @@
       "name": "Tranh thêu tay hoa sen",
       "description": "Tranh thêu tay hoa sen, mang lại không gian tươi mát và yên bình.",
       "price": 1500000,
-      "image_url": "https://images.unsplash.com/photo-1686152400478-01f93a728af4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://media.istockphoto.com/id/1252385427/vi/anh/%C4%91%C3%B3-l%C3%A0-m%E1%BB%99t-tr%C3%B2-ti%C3%AAu-khi%E1%BB%83n-r%E1%BA%A5t-nh%E1%BA%B9-nh%C3%A0ng-nh%C6%B0ng-c%C5%A9ng-l%C3%A0-m%E1%BB%99t-tr%C3%B2-ti%C3%AAu-khi%E1%BB%83n-r%E1%BA%A5t-s%C3%A1ng-t%E1%BA%A1o.jpg?s=612x612&w=0&k=20&c=fCHidChvL45zkwzPitvRaghZOEORvrUqiMNTpf75qdQ="
     },
     {
       "id": "f2a7b1c3-9d5e-4b2a-b4f6-3d7e9c0f2b8a",
@@ -792,7 +792,7 @@
       "name": "Tranh thêu tay phong cảnh",
       "description": "Tranh thêu tay phong cảnh thiên nhiên, tạo điểm nhấn cho không gian sống.",
       "price": 2000000,
-      "image_url": "https://images.unsplash.com/photo-1673252414045-bd9958f8b790?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661430742595-09fa6749add4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "g3b1c5a8-2d4e-4f7a-b9c1-0f2e8d3b7c5f",
@@ -800,7 +800,7 @@
       "name": "Tranh thêu tay chùa một cột",
       "description": "Tranh thêu tay chùa một cột, biểu tượng văn hóa Việt Nam.",
       "price": 1800000,
-      "image_url": "https://images.unsplash.com/photo-1602607203588-d6d0eda790e3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1688975323433-48666b27afdd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "h4c9b3d7-6e1f-4a8b-b5c2-3f9d8e7a2c1b",
@@ -808,7 +808,7 @@
       "name": "Tranh thêu tay cảnh đồng quê",
       "description": "Tranh thêu tay cảnh đồng quê, mang lại cảm giác bình yên và thư thái.",
       "price": 2200000,
-      "image_url": "https://images.unsplash.com/photo-1651178086220-86a03e3ce515?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661600713446-0d3f12ed4f84?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMzfHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "i5d3e7f8-9a1b-4c2d-b5e6-2f8a1c0b3d7e",
@@ -816,7 +816,7 @@
       "name": "Tranh thêu tay hoa cúc",
       "description": "Tranh thêu tay hoa cúc, tạo điểm nhấn nổi bật cho không gian.",
       "price": 1700000,
-      "image_url": "https://media.istockphoto.com/id/1401686454/photo/homemade-buttermilk-with-fresh-mint-leaves-in-copper-mug-on-khaki-green-tablecloth.webp?b=1&s=170667a&w=0&k=20&c=0HcVA6QkowUHtM_df4NXD8m8O_Lu9fmxRGDbPpNIjQg="
+      "image_url": "https://images.unsplash.com/photo-1674116644493-8567408f5275?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM1fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "j6f1b2c9-8d4e-4a5b-b9f0-3c7e8a5d1b2f",
@@ -824,7 +824,7 @@
       "name": "Tranh thêu tay chim công",
       "description": "Tranh thêu tay chim công, mang lại sự sang trọng và quý phái.",
       "price": 2500000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1677456381689-40beb7f4b155?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGFuZG1hZGV8ZW58MHx8MHx8fDA%3D"
+      "image_url": "https://images.unsplash.com/photo-1617804148450-ae41d0f6b94d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUxfHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "k7a2b4c9-3d1e-4f8b-b6c7-2f9e0d1a5b3c",
@@ -832,7 +832,7 @@
       "name": "Tranh thêu tay sông nước",
       "description": "Tranh thêu tay sông nước, tạo không gian mở và thoáng đãng.",
       "price": 2300000,
-      "image_url": "https://images.unsplash.com/photo-1565193565695-7144271f8501?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDAwfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1594577983669-af1f34dd5d7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "l8b3c9d7-5e1f-4a6b-b2c3-3f7a8e9d0b1c",
@@ -840,7 +840,7 @@
       "name": "Tranh thêu tay hoa hồng",
       "description": "Tranh thêu tay hoa hồng, biểu tượng của tình yêu và sự lãng mạn.",
       "price": 1600000,
-      "image_url": "https://images.unsplash.com/photo-1506806389468-78d55f4e9f44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDA1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1606591032281-3df3e8f47a8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "m9c1d8e7-2f4a-4b3f-b9e0-1d7a8c5b2e3f",
@@ -848,7 +848,7 @@
       "name": "Tranh thêu tay phố cổ",
       "description": "Tranh thêu tay phố cổ, tái hiện lại hình ảnh phố xưa.",
       "price": 2100000,
-      "image_url": "https://images.unsplash.com/photo-1686151663618-d40c5035c8ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1635506962193-ef7e43ef517b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "n0a9b1c7-8e4f-4d2b-b5c3-2f7a9e0c1b5d",
@@ -856,7 +856,7 @@
       "name": "Tranh thêu tay rừng cây",
       "description": "Tranh thêu tay rừng cây, mang lại không gian xanh mát và thư giãn.",
       "price": 1900000,
-      "image_url": "https://images.unsplash.com/photo-1557176312-4c3befef1556?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDQ3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1695132823558-1e27b91e34ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY3fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "o1b8c5d2-9f3e-4a7b-b2c1-0f8a9d7e3b5c",
@@ -864,7 +864,7 @@
       "name": "Bình hoa gốm sứ",
       "description": "Bình hoa gốm sứ thủ công, thiết kế đơn giản và tinh tế.",
       "price": 1400000,
-      "image_url": "https://images.unsplash.com/photo-1669124806301-6dfcfcd9cca1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDUxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1672208150300-b1fb3f737f52?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "p2c7d3e9-8f1b-4a2d-b6c5-3f9e0a1b7d4f",
@@ -872,7 +872,7 @@
       "name": "Tách trà gốm sứ",
       "description": "Tách trà gốm sứ thủ công, mang lại cảm giác thưởng thức trà trọn vẹn.",
       "price": 1200000,
-      "image_url": "https://images.unsplash.com/photo-1720746942634-fde192ea7346?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1675622664532-3e3b0ce3b7b4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "q3d8e1f2-7b4a-4c5d-b9e6-2f0a1b7d8c9e",
@@ -880,7 +880,7 @@
       "name": "Chén ăn gốm sứ",
       "description": "Chén ăn gốm sứ thủ công, thiết kế hiện đại và đẹp mắt.",
       "price": 1000000,
-      "image_url": "https://plus.unsplash.com/premium_photo-1673611875064-5c199c074089?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1529060311752-06e3c9ac9fb7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "r4e7f2a1-6b8d-4c3e-b2a9-0f7c1b5d8a9e",
@@ -888,7 +888,7 @@
       "name": "Đĩa gốm sứ họa tiết",
       "description": "Đĩa gốm sứ thủ công với họa tiết độc đáo, phù hợp cho trang trí.",
       "price": 1300000,
-      "image_url": "https://images.unsplash.com/photo-1588438761428-9451c893df20?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1532570204726-145c7199f10e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "s5f1a9b8-9d4e-4c2a-b6f3-2e0a7c1b8d9f",
@@ -896,7 +896,7 @@
       "name": "Bộ trà gốm sứ",
       "description": "Bộ trà gốm sứ thủ công, thiết kế tinh tế và trang nhã.",
       "price": 1500000,
-      "image_url": "https://images.unsplash.com/photo-1686152335424-390f20406c83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzg4fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1617567790012-c7c000b5515c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "t6g2b1a9-7d4e-4f3b-b5c2-3e8a0c9b1d7f",
@@ -904,7 +904,7 @@
       "name": "Ấm trà gốm sứ",
       "description": "Ấm trà gốm sứ thủ công, mang lại trải nghiệm thưởng thức trà tuyệt vời.",
       "price": 1100000,
-      "image_url": "https://images.unsplash.com/photo-1503656554812-ef734ee0f9f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzk0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1611836579732-d4dd63dc5492?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "u7h3c9e8-2f4a-4d7b-b1c6-0f2e9a5d8b3c",
@@ -912,7 +912,7 @@
       "name": "Lọ hoa gốm sứ",
       "description": "Lọ hoa gốm sứ thủ công, thiết kế hiện đại và sáng tạo.",
       "price": 1350000,
-      "image_url": "https://images.unsplash.com/photo-1631612644973-80e448a28d0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzkyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1697206663515-00339f220562?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "v8i2a9b1-9d3e-4f5c-b2a7-1f9c0b7e3d8a",
@@ -920,7 +920,7 @@
       "name": "Đèn gốm sứ",
       "description": "Đèn gốm sứ thủ công, tạo không gian ấm cúng và lãng mạn.",
       "price": 1250000,
-      "image_url": "https://images.unsplash.com/photo-1677043293133-accf2c093f31?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDUzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1639886242181-7c1a23229220?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "w9j3c8d7-5e2f-4a1b-b9d0-3f8a7e9c1b2f",
@@ -928,7 +928,7 @@
       "name": "Bát gốm sứ",
       "description": "Bát gốm sứ thủ công, thiết kế đẹp mắt và tinh tế.",
       "price": 1150000,
-      "image_url": "https://images.unsplash.com/photo-1669124806257-e25123539e2d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDY1fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1599958336382-c6a7c598925c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "x0k4b9e8-1d5a-4f2c-b6e9-2f7a0c8d3b1e",
@@ -936,7 +936,7 @@
       "name": "Bình rượu gốm sứ",
       "description": "Bình rượu gốm sứ thủ công, mang lại sự sang trọng và đẳng cấp.",
       "price": 1450000,
-      "image_url": "https://images.unsplash.com/photo-1512911455673-5b69a621b1a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTA0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1664527306801-f815c9a8516f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "y1l5c9a7-3f8e-4d1b-b2f3-0e9a5d7c8b2a",
@@ -944,7 +944,7 @@
       "name": "Chén gốm sứ hoa văn",
       "description": "Chén gốm sứ thủ công với hoa văn tinh xảo, phù hợp cho trang trí.",
       "price": 1050000,
-      "image_url": "https://images.unsplash.com/photo-1520899981500-21af7ff24c2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDk5fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1592304502437-178c9adcf9ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fENlcmFtaWNzJTJDJTIwYm93bHMlMkMlMjBwb3JjZWxhaW4lMjBwbGF0ZXMufGVufDB8fDB8fHww"
     },
     {
       "id": "z2m6a9b1-9e4d-4c3f-b5a6-2f8c0b9d7e4a",
@@ -952,7 +952,7 @@
       "name": "Nến thơm hương vani",
       "description": "Nến thơm thủ công hương vani, mang lại không gian ấm áp và ngọt ngào.",
       "price": 900000,
-      "image_url": "https://images.unsplash.com/photo-1640978217349-1b7cb1f893c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTAzfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661768438971-70b8d3aad49a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "a3n7b8c9-1e5f-4d2a-b3c0-9e7a1f5d8b4a",
@@ -960,7 +960,7 @@
       "name": "Nến thơm hương lavender",
       "description": "Nến thơm thủ công hương lavender, tạo cảm giác thư giãn và dễ chịu.",
       "price": 950000,
-      "image_url": "https://images.unsplash.com/photo-1682953982710-1113d5c383c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTE3fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1676043248932-80cec91c242e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "b4o8c9d1-2f3e-4a5b-b6c9-0f7e1a5d9b3a",
@@ -968,7 +968,7 @@
       "name": "Nến thơm hương cam",
       "description": "Nến thơm thủ công hương cam, mang lại không gian tươi mát và sảng khoái.",
       "price": 850000,
-      "image_url": "https://images.unsplash.com/photo-1628931619244-225e3ba52e53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTExfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1607482369189-a53b6e71fa48?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "c5p9a1b2-3e7d-4c6f-b9a0-2f1d8c7b9e0a",
@@ -976,7 +976,7 @@
       "name": "Nến thơm hương sả",
       "description": "Nến thơm thủ công hương sả, giúp xua đuổi muỗi và tạo không gian thoáng mát.",
       "price": 800000,
-      "image_url": "https://images.unsplash.com/photo-1585660561226-fac72076d397?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTI0fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1517938833378-3c78e6c8ddf2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "d6q0b9e1-4f2a-5c3d-b6e9-0f7a1c5b8d3e",
@@ -984,7 +984,7 @@
       "name": "Nến thơm hương hoa hồng",
       "description": "Nến thơm thủ công hương hoa hồng, mang lại sự lãng mạn và dịu dàng.",
       "price": 1000000,
-      "image_url": "https://images.unsplash.com/photo-1475578749612-705fc64d0574?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTMxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1661753182308-4a61bfb44e65?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "e7r1c8b9-2f4d-5a6b-b3e0-9f7d1a2c0b8e",
@@ -992,7 +992,7 @@
       "name": "Nến thơm hương quế",
       "description": "Nến thơm thủ công hương quế, tạo không gian ấm cúng và thư giãn.",
       "price": 1100000,
-      "image_url": "https://images.unsplash.com/photo-1654111539308-1f86feff6ca3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTMyfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://images.unsplash.com/photo-1606380588797-21fcaca88b62?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "f8s2b1a9-3d5e-4c7f-b9a0-2f8e1d7c9b3f",
@@ -1000,7 +1000,7 @@
       "name": "Nến thơm hương dừa",
       "description": "Nến thơm thủ công hương dừa, mang lại cảm giác tươi mát và dễ chịu.",
       "price": 950000,
-      "image_url": "https://images.unsplash.com/photo-1631125915361-b749fdeea230?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTQ2fHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1683270182438-c0178ec13fb2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxoYW5kbWFkZSUyMHNjZW50ZWQlMjBjYW5kbGVzfGVufDB8fDB8fHww"
     },
     {
       "id": "g9t3c8e1-5f7a-4b9d-b1c0-2f3a7e0b9d5c",
@@ -1008,7 +1008,375 @@
       "name": "Nến thơm hương bưởi",
       "description": "Nến thơm thủ công hương bưởi, mang lại không gian sảng khoái và tươi mới.",
       "price": 900000,
-      "image_url": "https://images.unsplash.com/photo-1532881811662-b5422417e0e1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTUxfHxoYW5kbWFkZXxlbnwwfHwwfHx8MA%3D%3D"
+      "image_url": "https://plus.unsplash.com/premium_photo-1700502418391-2b6d9f210b36?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEzfHxoYW5kbWFkZSUyMHNjZW50ZWQlMjBjYW5kbGVzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa sen",
+      "description": "Tranh thêu tay hoa sen, mang lại không gian tươi mát và yên bình.",
+      "price": 1500000,
+      "image_url": "https://images.unsplash.com/photo-1671535108665-eeeb723ebebf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGFuZG1hZGUlMjBlbWJyb2lkZXJ5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa mai",
+      "description": "Tranh thêu tay hoa mai, biểu tượng của sự may mắn và thịnh vượng.",
+      "price": 235000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1676751757869-317cdfb6469a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay phong cảnh",
+      "description": "Tranh thêu tay phong cảnh, tạo cảm giác thư giãn và gần gũi với thiên nhiên.",
+      "price": 850000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677355760664-30a48984bb57?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGFuZG1hZGUlMjBlbWJyb2lkZXJ5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay chữ hạnh phúc",
+      "description": "Tranh thêu tay chữ hạnh phúc, phù hợp để làm quà tặng ý nghĩa.",
+      "price": 470000,
+      "image_url": "https://images.unsplash.com/photo-1631037513265-ddd7d9a09d56?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa hướng dương",
+      "description": "Tranh thêu tay hoa hướng dương, tượng trưng cho niềm vui và năng lượng tích cực.",
+      "price": 289000,
+      "image_url": "https://images.unsplash.com/photo-1631037513117-0494ee1e9226?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay con rồng",
+      "description": "Tranh thêu tay con rồng, biểu tượng của sức mạnh và quyền lực.",
+      "price": 3200000,
+      "image_url": "https://images.unsplash.com/photo-1701188516359-30e8f1e2dac3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa đào",
+      "description": "Tranh thêu tay hoa đào, tượng trưng cho sự tươi mới và sinh sôi.",
+      "price": 615000,
+      "image_url": "https://images.unsplash.com/photo-1599589915468-b4c71ed62543?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay phong cảnh núi",
+      "description": "Tranh thêu tay phong cảnh núi, mang lại cảm giác hùng vĩ và yên bình.",
+      "price": 410000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1676751758731-6c0b1bdc57b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGhhbmRtYWRlJTIwZW1icm9pZGVyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay cánh đồng xanh",
+      "description": "Tranh thêu tay cánh đồng xanh, tạo cảm giác thư thái và gần gũi với thiên nhiên.",
+      "price": 123000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677355760330-54b3204f086c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "10a1b2c3-d4e5-f6g7-h8i9-jklmn0opqr0t",
+      "categoryId": "38b325dc-0ce9-4ace-8819-27c13ce06050",
+      "name": "Tranh thêu tay hoa lan",
+      "description": "Tranh thêu tay hoa lan, biểu tượng của sự quý phái và thanh lịch.",
+      "price": 545000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661600695743-5d46333ead42?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA5fHxoYW5kbWFkZSUyMGVtYnJvaWRlcnl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bát gốm sứ hoa văn cổ điển",
+      "description": "Bát gốm sứ với hoa văn cổ điển, thích hợp cho bữa ăn gia đình.",
+      "price": 250000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1714841438314-68ba9d4d5644?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2VyYW1pYyUyMGJvd2xzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Đĩa gốm sứ hoa mai",
+      "description": "Đĩa gốm sứ với họa tiết hoa mai, làm nổi bật bàn ăn.",
+      "price": 120000,
+      "image_url": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VyYW1pYyUyMGJvd2xzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Tách trà gốm sứ thủ công",
+      "description": "Tách trà gốm sứ thủ công, thiết kế độc đáo cho các buổi trà chiều.",
+      "price": 450000,
+      "image_url": "https://images.unsplash.com/photo-1610701596295-4dc5d6289214?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2VyYW1pYyUyMGJvd2xzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Chậu hoa gốm sứ",
+      "description": "Chậu hoa gốm sứ, phù hợp cho trang trí cây xanh trong nhà.",
+      "price": 300000,
+      "image_url": "https://images.unsplash.com/photo-1523367438061-01c055ce790c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2VyYW1pYyUyMGJvd2xzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bình gốm sứ hoa đào",
+      "description": "Bình gốm sứ hoa đào, phù hợp để trang trí và làm quà tặng.",
+      "price": 675000,
+      "image_url": "https://images.unsplash.com/photo-1603199505961-262de9ba0207?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2VyYW1pYyUyMGJvd2xzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bát đĩa gốm sứ bộ đôi",
+      "description": "Bát đĩa gốm sứ bộ đôi, thiết kế thanh lịch cho bữa ăn.",
+      "price": 220000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1666974555400-88f1b945a344?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Tách cà phê gốm sứ kiểu dáng hiện đại",
+      "description": "Tách cà phê gốm sứ với kiểu dáng hiện đại, phù hợp cho văn phòng.",
+      "price": 185000,
+      "image_url": "https://images.unsplash.com/photo-1519916478825-b1d7aef08f54?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bình hoa gốm sứ xanh lam",
+      "description": "Bình hoa gốm sứ xanh lam, thiết kế tinh tế và trang nhã.",
+      "price": 540000,
+      "image_url": "https://images.unsplash.com/photo-1621453571889-0b228e998080?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Hộp gốm sứ trang trí",
+      "description": "Hộp gốm sứ trang trí, thích hợp để đựng các món đồ nhỏ.",
+      "price": 295000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1716473696981-9ad538c130d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "10a1b2c3-d4e5-f6g7-h8i9-jklmn0opqr0t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bát gốm sứ hoa cúc",
+      "description": "Bát gốm sứ với hoa cúc, đẹp mắt và sang trọng.",
+      "price": 175000,
+      "image_url": "https://images.unsplash.com/photo-1536936812504-0e77dc3f0b40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "11a2b3c4-d5e6-f7g8-h9i0-jklmn1opqr1t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Bình gốm sứ phong cách vintage",
+      "description": "Bình gốm sứ phong cách vintage, trang trí đẹp mắt cho không gian sống.",
+      "price": 950000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1683133252550-01327586a718?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "12a3b4c5-d6e7-f8g9-h0i1-jklmn2opqr2t",
+      "categoryId": "57f329bd-7e22-4c8b-b041-5c2f4b5a7a56",
+      "name": "Đĩa gốm sứ trang trí",
+      "description": "Đĩa gốm sứ trang trí, có thể dùng để trang trí bàn hoặc tường.",
+      "price": 420000,
+      "image_url": "https://images.unsplash.com/photo-1528649247577-4f5a475af4d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGNlcmFtaWMlMjBib3dsc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công vani",
+      "description": "Nến thơm thủ công hương vani, mang lại cảm giác ấm cúng và thư giãn.",
+      "price": 250000,
+      "image_url": "https://images.unsplash.com/photo-1618324359017-5452b2f4eec9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SGFuZG1hZGUlMjBzY2VudGVkJTIwY2FuZGxlcy58ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công lavender",
+      "description": "Nến thơm thủ công hương lavender, giúp thư giãn và cải thiện giấc ngủ.",
+      "price": 185000,
+      "image_url": "https://images.unsplash.com/photo-1509511715017-077da45196ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8SGFuZG1hZGUlMjBzY2VudGVkJTIwY2FuZGxlcy58ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công chanh tươi",
+      "description": "Nến thơm thủ công hương chanh tươi, mang lại cảm giác sảng khoái và tươi mới.",
+      "price": 220000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1661490822132-359dd22f8362?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8SGFuZG1hZGUlMjBzY2VudGVkJTIwY2FuZGxlcy58ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công gỗ đàn hương",
+      "description": "Nến thơm thủ công hương gỗ đàn hương, mang lại sự ấm áp và lãng mạn.",
+      "price": 300000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1666632470596-d5d237620996?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công hoa hồng",
+      "description": "Nến thơm thủ công hương hoa hồng, tạo không gian lãng mạn và dễ chịu.",
+      "price": 275000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1701094772100-b1988ac13707?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công cây thông",
+      "description": "Nến thơm thủ công hương cây thông, phù hợp cho mùa đông và giáng sinh.",
+      "price": 190000,
+      "image_url": "https://images.unsplash.com/photo-1608085021978-6981f6993f9c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công dưa lưới",
+      "description": "Nến thơm thủ công hương dưa lưới, mang lại cảm giác tươi mới và ngọt ngào.",
+      "price": 150000,
+      "image_url": "https://images.unsplash.com/photo-1602409339188-95d178a611a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công cam quýt",
+      "description": "Nến thơm thủ công hương cam quýt, tạo cảm giác tươi mới và năng động.",
+      "price": 225000,
+      "image_url": "https://images.unsplash.com/photo-1543397838-4843c20f7607?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công dừa",
+      "description": "Nến thơm thủ công hương dừa, mang lại cảm giác thư giãn và dễ chịu.",
+      "price": 210000,
+      "image_url": "https://images.unsplash.com/photo-1513098501832-1afb01e28d17?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "10a1b2c3-d4e5-f6g7-h8i9-jklmn0opqr0t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công café",
+      "description": "Nến thơm thủ công hương café, lý tưởng cho những buổi sáng năng động.",
+      "price": 265000,
+      "image_url": "https://images.unsplash.com/photo-1512717503929-fa4a86bb205c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "11a2b3c4-d5e6-f7g8-h9i0-jklmn1opqr1t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công húng quế",
+      "description": "Nến thơm thủ công hương húng quế, mang lại cảm giác thư thái và dễ chịu.",
+      "price": 280000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1693007962253-5ed5aa9595d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxIYW5kbWFkZSUyMHNjZW50ZWQlMjBjYW5kbGVzLnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "12a3b4c5-d6e7-f8g9-h0i1-jklmn2opqr2t",
+      "categoryId": "a9b427d3-3d1c-4c8e-b34f-1f7e4d2e9f8c",
+      "name": "Nến thơm thủ công gừng",
+      "description": "Nến thơm thủ công hương gừng, mang lại cảm giác ấm áp và dễ chịu.",
+      "price": 295000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1698500033006-b78d3c1f7bd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fEhhbmRtYWRlJTIwc2NlbnRlZCUyMGNhbmRsZXMufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-klmn1opqr1t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên oải hương",
+      "description": "Xà phòng thiên nhiên hương oải hương, làm dịu và thư giãn da.",
+      "price": 130000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1684471006753-9936b2bc7cdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TmF0dXJhbCUyMHNvYXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-klmn2opqr2t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên chanh",
+      "description": "Xà phòng thiên nhiên hương chanh tươi mát, giúp làm sạch và sáng da.",
+      "price": 145000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1677776519079-184fdc8f5c6d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TmF0dXJhbCUyMHNvYXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-klmn3opqr3t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên dưa leo",
+      "description": "Xà phòng thiên nhiên hương dưa leo, làm mát và dưỡng ẩm da.",
+      "price": 170000,
+      "image_url": "https://images.unsplash.com/photo-1652233172336-6efc037a3766?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmF0dXJhbCUyMHNvYXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-klmn4opqr4t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hạnh nhân",
+      "description": "Xà phòng thiên nhiên hương hạnh nhân, giúp làm mềm và nuôi dưỡng da.",
+      "price": 155000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1684471006681-969fce3ae6a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TmF0dXJhbCUyMHNvYXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1g2h-3i4j-klmn5opqr5t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên trà xanh",
+      "description": "Xà phòng thiên nhiên hương trà xanh, làm sạch và cung cấp độ ẩm.",
+      "price": 160000,
+      "image_url": "https://images.unsplash.com/photo-1588713029525-f95e7652926d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6a7b8c9d-0e1f-2g3h-4i5j-klmn6opqr6t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên hoa hồng",
+      "description": "Xà phòng thiên nhiên hương hoa hồng, giúp làm mềm và làm sáng da.",
+      "price": 185000,
+      "image_url": "https://images.unsplash.com/photo-1678799664214-36dd32015601?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3g4h-5i6j-klmn7opqr7t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên cam",
+      "description": "Xà phòng thiên nhiên hương cam, mang lại sự tươi mới và sảng khoái.",
+      "price": 140000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1679064287132-900173bb742b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "8a9b0c1d-2e3f-4g5h-6i7j-klmn8opqr8t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên bạc hà",
+      "description": "Xà phòng thiên nhiên hương bạc hà, giúp làm dịu và làm sạch da.",
+      "price": 175000,
+      "image_url": "https://images.unsplash.com/photo-1547793549-70faf88838c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "9a0b1c2d-3e4f-5g6h-7i8j-klmn9opqr9t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên camellia",
+      "description": "Xà phòng thiên nhiên hương camellia, mang lại cảm giác thư giãn và dễ chịu.",
+      "price": 190000,
+      "image_url": "https://images.unsplash.com/photo-1547793548-7a0e7dfdb24f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "10a1b2c3-d4e5-f6g7-h8i9-jklmn0opqr0t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên cây lô hội",
+      "description": "Xà phòng thiên nhiên hương lô hội, giúp làm mềm và cung cấp độ ẩm cho da.",
+      "price": 200000,
+      "image_url": "https://images.unsplash.com/photo-1663108221456-1d905f3c6a9a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "11a2b3c4-d5e6-f7g8-h9i0-jklmn1opqr1t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên cà phê",
+      "description": "Xà phòng thiên nhiên hương cà phê, giúp tẩy tế bào chết và làm sáng da.",
+      "price": 195000,
+      "image_url": "https://images.unsplash.com/photo-1634906345513-3fef37b28ae6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "12a3b4c5-d6e7-f8g9-h0i1-jklmn2opqr2t",
+      "categoryId": "d1f4a6b5-5e8d-4b1f-bc2e-5a9d3c4b2e7f",
+      "name": "Xà phòng thiên nhiên mật ong",
+      "description": "Xà phòng thiên nhiên hương mật ong, giúp nuôi dưỡng và làm mềm da.",
+      "price": 210000,
+      "image_url": "https://plus.unsplash.com/premium_photo-1679064287057-74b0fc465412?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fE5hdHVyYWwlMjBzb2FwfGVufDB8fDB8fHww"
     }
   ]
 }
