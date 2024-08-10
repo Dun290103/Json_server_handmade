@@ -1,5 +1,9 @@
 const jsonServer = require('json-server');
 const queryString = require('query-string');
+
+// Chạy setup-db.js để thêm hoặc ghi đè ID trong db.json
+require('./setup-db');
+
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
